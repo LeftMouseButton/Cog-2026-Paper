@@ -1,0 +1,39 @@
+[
+  {
+    "id": "dEoLchDuMMs",
+    "title": "【豆を手から】節分【出したかった】",
+    "type": "stream",
+    "published_at": "2018-06-16T07:12:18.000Z",
+    "available_at": "2018-06-16T07:12:18.000Z",
+    "duration": 51,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "SoraCh. ときのそらチャンネル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0v0th Generation",
+        "english_name": "Tokino Sora"
+      }
+    ],
+    "channel": {
+      "id": "UCGSOfFtVCTBfmGxHK5OD8ag",
+      "name": "Ankimo Ch. あん肝チャンネル",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1Tq5YXJhE91OdA882yhib-vb6q4BTBKe4QP3SakTVIrEPqOnRbHTSlvOnokf74FZhcCGEVGFw6s=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ankimo"
+    },
+    "collabs": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "duration_seconds": 51
+      }
+    ]
+  }
+]

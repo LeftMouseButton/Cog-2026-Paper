@@ -1,0 +1,78 @@
+[
+  {
+    "id": "BWWmKvYcjB4",
+    "title": "『ホロライブドリームス』ティザーPV /  “hololive Dreams\" – Official Teaser",
+    "type": "stream",
+    "topic_id": "Teaser",
+    "published_at": "2026-01-08T11:00:41.000Z",
+    "available_at": "2026-01-08T11:00:41.000Z",
+    "duration": 89,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "SoraCh. ときのそらチャンネル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0v0th Generation",
+        "english_name": "Tokino Sora"
+      }
+    ],
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
+    },
+    "collabs": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "duration_seconds": 89
+      }
+    ]
+  },
+  {
+    "id": "QGKxCTMnl78",
+    "title": "『ホロライブドリームス』リズムゲーム紹介PV /  “hololive Dreams\" – Rhythm Game PV",
+    "type": "stream",
+    "topic_id": "Teaser",
+    "published_at": "2026-01-08T11:00:38.000Z",
+    "available_at": "2026-01-08T11:00:38.000Z",
+    "duration": 78,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "SoraCh. ときのそらチャンネル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0v0th Generation",
+        "english_name": "Tokino Sora"
+      }
+    ],
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
+    },
+    "collabs": [
+      {
+        "id": "UCp6993wxpyDPHUpavwDFqgg",
+        "name": "SoraCh. ときのそらチャンネル",
+        "duration_seconds": 78
+      }
+    ]
+  }
+]

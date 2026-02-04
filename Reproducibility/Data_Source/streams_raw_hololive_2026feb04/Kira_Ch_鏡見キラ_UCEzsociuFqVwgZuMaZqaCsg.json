@@ -1,0 +1,3601 @@
+[
+  {
+    "id": "nf8dWcURyHY",
+    "title": "【Among Us】Holostars Battle Royale. Im trap!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "among_us",
+    "published_at": "2020-10-27T13:55:24.000Z",
+    "available_at": "2020-10-27T12:01:00.000Z",
+    "duration": 6142,
+    "status": "past",
+    "start_scheduled": "2020-10-27T12:00:00.000Z",
+    "start_actual": "2020-10-27T12:01:00.000Z",
+    "end_actual": "2020-10-27T13:43:46.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Oga Ch.荒咬オウガ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "english_name": "Aragami Oga"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Roberu Ch. 夕刻ロベル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Yukoku Roberu"
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Shien Ch.影山シエン",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "english_name": "Kageyama Shien"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UChSvpZYRPh0FvG4SJGSga3g",
+        "name": "Shien Ch.影山シエン",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 6166
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 6166
+      }
+    ]
+  },
+  {
+    "id": "_G87sKDuFXs",
+    "title": "【誕生日記念】ハッピバーステーぼーくー!!!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2020-10-26T12:18:02.000Z",
+    "available_at": "2020-10-26T11:00:10.000Z",
+    "duration": 4046,
+    "status": "past",
+    "start_scheduled": "2020-10-26T11:00:00.000Z",
+    "start_actual": "2020-10-26T11:00:10.000Z",
+    "end_actual": "2020-10-26T12:13:35.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "sXZnO8y_Z9Y",
+    "title": "【among us】視聴者参加型!!小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "among_us",
+    "published_at": "2020-10-25T12:43:11.000Z",
+    "available_at": "2020-10-25T11:00:31.000Z",
+    "duration": 5390,
+    "status": "past",
+    "start_scheduled": "2020-10-25T11:00:00.000Z",
+    "start_actual": "2020-10-25T11:00:31.000Z",
+    "end_actual": "2020-10-25T12:31:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "YnkH671uuRQ",
+    "title": "【FALLGUYS】口内炎を8割撃退したから優勝する【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-10-24T14:31:32.000Z",
+    "available_at": "2020-10-24T13:10:27.000Z",
+    "duration": 4243,
+    "status": "past",
+    "start_scheduled": "2020-10-24T13:10:00.000Z",
+    "start_actual": "2020-10-24T13:10:27.000Z",
+    "end_actual": "2020-10-24T14:22:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "izcIyFAOPCI",
+    "title": "【ApexLegends】劇場版APEX 真の絆編  Chibistars【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-10-14T11:40:08.000Z",
+    "available_at": "2020-10-14T09:04:28.000Z",
+    "duration": 8415,
+    "status": "past",
+    "start_scheduled": "2020-10-14T09:00:00.000Z",
+    "start_actual": "2020-10-14T09:04:28.000Z",
+    "end_actual": "2020-10-14T11:25:43.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 8475
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 8475
+      }
+    ]
+  },
+  {
+    "id": "nVpDFJErnQg",
+    "title": "【KIDS】未知数ゲー、再び  help me【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "KIDS",
+    "published_at": "2020-10-13T11:34:05.000Z",
+    "available_at": "2020-10-13T11:01:51.000Z",
+    "duration": 1696,
+    "status": "past",
+    "start_scheduled": "2020-10-13T11:00:00.000Z",
+    "start_actual": "2020-10-13T11:01:51.000Z",
+    "end_actual": "2020-10-13T11:30:34.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "71NxTldKCGM",
+    "title": "【FALLGUYS】性格悪い2人がフォールガイズしたらどうなるか【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-10-11T15:57:59.000Z",
+    "available_at": "2020-10-11T14:08:04.000Z",
+    "duration": 6102,
+    "status": "past",
+    "start_scheduled": "2020-10-11T14:00:00.000Z",
+    "start_actual": "2020-10-11T14:08:04.000Z",
+    "end_actual": "2020-10-11T15:49:56.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 6112
+      }
+    ]
+  },
+  {
+    "id": "Fr-lrXr6eVk",
+    "title": "ねえ、ボクと雑談……しよ?💙【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2020-10-09T16:25:08.000Z",
+    "available_at": "2020-10-09T15:02:00.000Z",
+    "duration": 4156,
+    "status": "past",
+    "start_scheduled": "2020-10-09T15:00:00.000Z",
+    "start_actual": "2020-10-09T15:02:00.000Z",
+    "end_actual": "2020-10-09T16:11:42.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "eSEBYw7fWx0",
+    "title": "【FALLGUYS】今度こそ行くぞっ!!シーズンⅡ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-10-09T12:27:27.000Z",
+    "available_at": "2020-10-09T10:02:00.000Z",
+    "duration": 8163,
+    "status": "past",
+    "start_scheduled": "2020-10-09T10:00:00.000Z",
+    "start_actual": "2020-10-09T10:02:00.000Z",
+    "end_actual": "2020-10-09T12:18:32.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "EwCFqQD9h0Y",
+    "title": "急遽雑談になった枠【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2020-10-07T10:31:22.000Z",
+    "available_at": "2020-10-08T12:33:40.000Z",
+    "duration": 2071,
+    "status": "past",
+    "start_scheduled": "2020-10-08T12:30:00.000Z",
+    "start_actual": "2020-10-08T12:33:40.000Z",
+    "end_actual": "2020-10-08T13:08:39.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "GDcA463uv2Y",
+    "title": "【FALLGUYS】シーズン1最終日!!勝ち収めしたい!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-10-07T12:53:46.000Z",
+    "available_at": "2020-10-07T11:02:18.000Z",
+    "duration": 5734,
+    "status": "past",
+    "start_scheduled": "2020-10-07T11:00:00.000Z",
+    "start_actual": "2020-10-07T11:02:18.000Z",
+    "end_actual": "2020-10-07T12:38:38.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "pWUT5a9CXqo",
+    "title": "【among us】僕は女の子なので嘘なんてつけません!!ホロスタ全員コラボ!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "among_us",
+    "published_at": "2020-09-24T13:24:17.000Z",
+    "available_at": "2020-09-24T12:01:59.000Z",
+    "duration": 4576,
+    "status": "past",
+    "start_scheduled": "2020-09-24T12:00:00.000Z",
+    "start_actual": "2020-09-24T12:01:59.000Z",
+    "end_actual": "2020-09-24T13:18:46.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "os47gKvP36M",
+    "title": "【PLUG&PLAY】未知数すぎて怖い【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Plug_&_Play",
+    "published_at": "2020-09-20T15:05:34.000Z",
+    "available_at": "2020-09-20T14:31:58.000Z",
+    "duration": 1858,
+    "status": "past",
+    "start_scheduled": "2020-09-20T14:30:00.000Z",
+    "start_actual": "2020-09-20T14:31:58.000Z",
+    "end_actual": "2020-09-20T15:03:19.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "zunRepZP_o0",
+    "title": "久しぶりに皆とお話したいな?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2020-09-18T16:28:38.000Z",
+    "available_at": "2020-09-18T14:47:08.000Z",
+    "duration": 5606,
+    "status": "past",
+    "start_scheduled": "2020-09-18T14:45:00.000Z",
+    "start_actual": "2020-09-18T14:47:08.000Z",
+    "end_actual": "2020-09-18T16:20:55.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "TP1FtVs16os",
+    "title": "【FALLGUYS】騎士と一緒なら絶対堕ちないんだからっ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-09-15T15:37:51.000Z",
+    "available_at": "2020-09-15T13:12:34.000Z",
+    "duration": 7811,
+    "status": "past",
+    "start_scheduled": "2020-09-15T13:10:00.000Z",
+    "start_actual": "2020-09-15T13:12:34.000Z",
+    "end_actual": "2020-09-15T15:22:59.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 7825
+      }
+    ]
+  },
+  {
+    "id": "68ynkCtU5Z4",
+    "title": "【FALLGUYS】週末は優勝しないと終われないっしょ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-09-13T21:32:52.000Z",
+    "available_at": "2020-09-13T14:00:24.000Z",
+    "duration": 23723,
+    "status": "past",
+    "start_scheduled": "2020-09-13T14:00:00.000Z",
+    "start_actual": "2020-09-13T14:00:24.000Z",
+    "end_actual": "2020-09-13T20:36:17.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "l-G2pPUNVnA",
+    "title": "【FALLGUYS】銃で撃ちあうゲームより過激って聞きました【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "fallguys",
+    "published_at": "2020-09-12T15:40:09.000Z",
+    "available_at": "2020-09-12T14:01:19.000Z",
+    "duration": 4544,
+    "status": "past",
+    "start_scheduled": "2020-09-12T14:00:00.000Z",
+    "start_actual": "2020-09-12T14:01:19.000Z",
+    "end_actual": "2020-09-12T15:17:52.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Nmp9eO6sDaw",
+    "title": "【Spellbreak】魔法バトロワとか絶対楽しいやつじゃん【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Spellbreak",
+    "published_at": "2020-09-10T10:55:05.000Z",
+    "available_at": "2020-09-10T10:00:23.000Z",
+    "duration": 2910,
+    "status": "past",
+    "start_scheduled": "2020-09-10T10:00:00.000Z",
+    "start_actual": "2020-09-10T10:00:23.000Z",
+    "end_actual": "2020-09-10T10:49:45.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "bJHQCj8AFMI",
+    "title": "【幽霊列車】夏と言えば列車旅...? 怖くないよね?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "The_Ghost_Train",
+    "published_at": "2020-08-07T15:47:55.000Z",
+    "available_at": "2020-08-07T14:01:04.000Z",
+    "duration": 5787,
+    "status": "past",
+    "start_scheduled": "2020-08-07T14:00:00.000Z",
+    "start_actual": "2020-08-07T14:01:04.000Z",
+    "end_actual": "2020-08-07T15:37:37.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "4NevDC4bYDU",
+    "title": "【#ホロスタ夏衣装】夏の僕、いっぱい見て?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Outfit_Reveal",
+    "published_at": "2020-08-04T11:01:04.000Z",
+    "available_at": "2020-08-04T10:31:06.000Z",
+    "duration": 1622,
+    "status": "past",
+    "start_scheduled": "2020-08-04T10:30:00.000Z",
+    "start_actual": "2020-08-04T10:31:06.000Z",
+    "end_actual": "2020-08-04T10:58:47.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Roberu Ch. 夕刻ロベル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Yukoku Roberu"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 1661
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 1661
+      }
+    ]
+  },
+  {
+    "id": "voR3efoCiNs",
+    "title": "【#Vtuber最協決定戦 verAPEX】大会、馬、ちびすたにて 【ちびすたーず/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-08-02T12:29:48.000Z",
+    "available_at": "2020-08-02T09:03:53.000Z",
+    "duration": 11282,
+    "status": "past",
+    "start_scheduled": "2020-08-02T09:00:00.000Z",
+    "start_actual": "2020-08-02T09:03:53.000Z",
+    "end_actual": "2020-08-02T12:12:37.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "org": "Neo-Porte",
+        "lang": null,
+        "name": "渋谷ハル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0a0th Generation",
+        "english_name": "Shibuya HAL"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "duration_seconds": 11324
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 11324
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 11324
+      }
+    ]
+  },
+  {
+    "id": "JruCNlbyTzY",
+    "title": "【APEX】今大会のダークホースこと馬です 練習カスタム【鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-07-31T14:30:26.000Z",
+    "available_at": "2020-07-31T11:03:25.000Z",
+    "duration": 11521,
+    "status": "past",
+    "start_scheduled": "2020-07-31T11:00:00.000Z",
+    "start_actual": "2020-07-31T11:03:25.000Z",
+    "end_actual": "2020-07-31T14:15:34.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "org": "Neo-Porte",
+        "lang": null,
+        "name": "渋谷ハル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0a0th Generation",
+        "english_name": "Shibuya HAL"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 11529
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 11529
+      },
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "duration_seconds": 11529
+      }
+    ]
+  },
+  {
+    "id": "5ERRQEQ8Blc",
+    "title": "夏だ!!ちびすたーずだ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "published_at": "2020-07-26T12:27:05.000Z",
+    "available_at": "2020-07-26T15:02:34.000Z",
+    "duration": 4214,
+    "status": "past",
+    "start_scheduled": "2020-07-26T15:00:00.000Z",
+    "start_actual": "2020-07-26T15:02:34.000Z",
+    "end_actual": "2020-07-26T16:13:14.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 4240
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 4240
+      }
+    ]
+  },
+  {
+    "id": "EUWfN4d-uhM",
+    "title": "今週もお疲れ様、一杯どう?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "published_at": "2020-07-24T15:21:29.000Z",
+    "available_at": "2020-07-24T14:01:21.000Z",
+    "duration": 4475,
+    "status": "past",
+    "start_scheduled": "2020-07-24T14:00:00.000Z",
+    "start_actual": "2020-07-24T14:01:21.000Z",
+    "end_actual": "2020-07-24T15:16:21.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "qwonUv7eSUE",
+    "title": "【ApexLegends】チビスターズ再始動~大会練習~【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-07-20T11:02:12.000Z",
+    "available_at": "2020-07-20T08:01:51.000Z",
+    "duration": 8798,
+    "status": "past",
+    "start_scheduled": "2020-07-20T08:00:00.000Z",
+    "start_actual": "2020-07-20T08:01:51.000Z",
+    "end_actual": "2020-07-20T10:29:23.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "org": "Neo-Porte",
+        "lang": null,
+        "name": "渋谷ハル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/TdoTY1zdj6MkO4hJEgdjAs3CLqjDFQsWylCeslTVTgUbNO8Zj4METNPE3AJLAxtQZ2XSC7Sq=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "0a0th Generation",
+        "english_name": "Shibuya HAL"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 8852
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 8852
+      },
+      {
+        "id": "UChLfthKoUV502J7gU9STArg",
+        "name": "渋谷ハル",
+        "duration_seconds": 8852
+      }
+    ]
+  },
+  {
+    "id": "AWzSINF0thY",
+    "title": "食べちゃおっかなぁ……♡♡【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "published_at": "2020-07-19T15:51:29.000Z",
+    "available_at": "2020-07-19T14:32:00.000Z",
+    "duration": 4358,
+    "status": "past",
+    "start_scheduled": "2020-07-19T14:30:00.000Z",
+    "start_actual": "2020-07-19T14:32:00.000Z",
+    "end_actual": "2020-07-19T15:44:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "mPYSmfepD9s",
+    "title": "【ApexLegends】宇宙人とチャンピオン取るまで!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-07-17T08:58:44.000Z",
+    "available_at": "2020-07-17T07:00:35.000Z",
+    "duration": 6324,
+    "status": "past",
+    "start_scheduled": "2020-07-17T07:00:00.000Z",
+    "start_actual": "2020-07-17T07:00:35.000Z",
+    "end_actual": "2020-07-17T08:46:38.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 6363
+      }
+    ]
+  },
+  {
+    "id": "-chLhm31aFs",
+    "title": "【PIENぴえん】ロリ男の娘がぴえんするの!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "PIEN",
+    "published_at": "2020-07-08T15:59:33.000Z",
+    "available_at": "2020-07-08T15:31:36.000Z",
+    "duration": 1487,
+    "status": "past",
+    "start_scheduled": "2020-07-08T15:30:00.000Z",
+    "start_actual": "2020-07-08T15:31:36.000Z",
+    "end_actual": "2020-07-08T15:56:58.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "YOI5CS5I7Uc",
+    "title": "【ApexLegends】劇場版APEX第二章【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-07-02T11:12:11.000Z",
+    "available_at": "2020-07-02T10:01:30.000Z",
+    "duration": 3822,
+    "status": "past",
+    "start_scheduled": "2020-07-02T10:00:00.000Z",
+    "start_actual": "2020-07-02T10:01:30.000Z",
+    "end_actual": "2020-07-02T11:05:54.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 3864
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 3864
+      }
+    ]
+  },
+  {
+    "id": "2F0H6OBlZGM",
+    "title": "【JumpKing】メンバークリア者0人の闇のゲーム【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Jump_King",
+    "published_at": "2020-07-01T17:55:34.000Z",
+    "available_at": "2020-07-01T04:01:48.000Z",
+    "duration": 29749,
+    "status": "past",
+    "start_scheduled": "2020-07-01T04:00:00.000Z",
+    "start_actual": "2020-07-01T04:01:48.000Z",
+    "end_actual": "2020-07-01T12:18:12.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "HjWPCBecw0Y",
+    "title": "【雑談コラボ】この配信は残せる自信がありません【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2020-06-24T14:35:29.000Z",
+    "available_at": "2020-06-24T13:16:29.000Z",
+    "duration": 3670,
+    "status": "past",
+    "start_scheduled": "2020-06-24T13:00:00.000Z",
+    "start_actual": "2020-06-24T13:16:29.000Z",
+    "end_actual": "2020-06-24T14:17:47.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Oga Ch.荒咬オウガ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+        "english_name": "Aragami Oga"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "name": "Oga Ch.荒咬オウガ",
+        "duration_seconds": 3678
+      }
+    ]
+  },
+  {
+    "id": "H1KXw3TD59U",
+    "title": "【行方不明】ホラゲって怖くないよね?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Missing_Children",
+    "published_at": "2020-06-23T16:23:03.000Z",
+    "available_at": "2020-06-23T14:59:48.000Z",
+    "duration": 4513,
+    "status": "past",
+    "start_scheduled": "2020-06-23T15:00:00.000Z",
+    "start_actual": "2020-06-23T14:59:48.000Z",
+    "end_actual": "2020-06-23T16:15:12.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ufJsvAf8KBs",
+    "title": "【VALORANT】爆弾いっぱいプレゼントしちゃうぞ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2020-06-11T17:12:10.000Z",
+    "available_at": "2020-06-11T15:12:10.000Z",
+    "duration": 5290,
+    "status": "past",
+    "start_scheduled": "2020-06-11T15:10:00.000Z",
+    "start_actual": "2020-06-11T15:12:10.000Z",
+    "end_actual": "2020-06-11T16:44:25.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "k5ZINMONOL0",
+    "title": "【1周年】ありがとう💙(枠3/3)【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2020-06-09T15:23:08.000Z",
+    "available_at": "2020-06-09T14:38:26.000Z",
+    "duration": 2392,
+    "status": "past",
+    "start_scheduled": "2020-06-09T14:40:00.000Z",
+    "start_actual": "2020-06-09T14:38:26.000Z",
+    "end_actual": "2020-06-09T15:18:49.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "qnMEBdTBK6M",
+    "title": "【1周年】ありがとう💙 (枠2/3)【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2020-06-09T15:30:54.000Z",
+    "available_at": "2020-06-09T14:15:57.000Z",
+    "duration": 1048,
+    "status": "past",
+    "start_scheduled": "2020-06-09T14:15:00.000Z",
+    "start_actual": "2020-06-09T14:15:57.000Z",
+    "end_actual": "2020-06-09T14:33:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "8NUzQZvWUzk",
+    "title": "【1周年】ありがとう💙(枠1/3)【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2020-06-09T15:28:43.000Z",
+    "available_at": "2020-06-09T14:01:48.000Z",
+    "duration": 606,
+    "status": "past",
+    "start_scheduled": "2020-06-09T14:00:00.000Z",
+    "start_actual": "2020-06-09T14:01:48.000Z",
+    "end_actual": "2020-06-09T14:11:46.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "RB-d1iv-hr8",
+    "title": "【APEX】幸せだった日々は終わり劇場版が始まる【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-06-04T11:03:54.000Z",
+    "available_at": "2020-06-04T10:00:39.000Z",
+    "duration": 3197,
+    "status": "past",
+    "start_scheduled": "2020-06-04T10:00:00.000Z",
+    "start_actual": "2020-06-04T10:00:39.000Z",
+    "end_actual": "2020-06-04T10:54:39.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 3240
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 3240
+      }
+    ]
+  },
+  {
+    "id": "qyAVBzxnsA8",
+    "title": "【VALORANT】新作FPSで無双したい!!する!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2020-06-04T09:37:44.000Z",
+    "available_at": "2020-06-04T08:41:14.000Z",
+    "duration": 2929,
+    "status": "past",
+    "start_scheduled": "2020-06-04T08:40:00.000Z",
+    "start_actual": "2020-06-04T08:41:14.000Z",
+    "end_actual": "2020-06-04T09:30:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "iAZIDj33W24",
+    "title": "【APEX】時々スタンド使いになるエーペックス【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-05-09T10:11:48.000Z",
+    "available_at": "2020-05-09T09:02:26.000Z",
+    "duration": 2167,
+    "status": "past",
+    "start_scheduled": "2020-05-09T09:00:00.000Z",
+    "start_actual": "2020-05-09T09:02:26.000Z",
+    "end_actual": "2020-05-09T09:39:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ERW60rBFCFA",
+    "title": "APEXでランクポイント全部溶かした顔【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-05-08T07:36:42.000Z",
+    "available_at": "2020-05-08T06:00:24.000Z",
+    "duration": 3688,
+    "status": "past",
+    "start_scheduled": "2020-05-08T06:00:00.000Z",
+    "start_actual": "2020-05-08T06:00:24.000Z",
+    "end_actual": "2020-05-08T07:02:08.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "uHsisRv78L8",
+    "title": "にち☆あさ 日曜日の朝雑談【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "morning",
+    "published_at": "2020-05-02T23:26:01.000Z",
+    "available_at": "2020-05-02T22:04:33.000Z",
+    "duration": 2881,
+    "status": "past",
+    "start_scheduled": "2020-05-02T22:00:00.000Z",
+    "start_actual": "2020-05-02T22:04:33.000Z",
+    "end_actual": "2020-05-02T22:52:59.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "m8EHtJQaV_E",
+    "title": "【APEX】ランク駆け上がり隊【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-05-01T09:05:04.000Z",
+    "available_at": "2020-05-01T04:01:59.000Z",
+    "duration": 15022,
+    "status": "past",
+    "start_scheduled": "2020-05-01T04:00:00.000Z",
+    "start_actual": "2020-05-01T04:01:59.000Z",
+    "end_actual": "2020-05-01T08:12:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ydYtnHu2XDk",
+    "title": "寝起きの僕とましゅまろ食べよ?💙【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Marshmallow",
+    "published_at": "2020-04-30T23:32:08.000Z",
+    "available_at": "2020-04-30T22:00:53.000Z",
+    "duration": 3451,
+    "status": "past",
+    "start_scheduled": "2020-04-30T22:00:00.000Z",
+    "start_actual": "2020-04-30T22:00:53.000Z",
+    "end_actual": "2020-04-30T22:58:49.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "_RR55JZIA7c",
+    "title": "【APEX】へい!!チャンポンお待ちぃ!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-04-30T09:28:50.000Z",
+    "available_at": "2020-04-30T08:01:16.000Z",
+    "duration": 4593,
+    "status": "past",
+    "start_scheduled": "2020-04-30T08:00:00.000Z",
+    "start_actual": "2020-04-30T08:01:16.000Z",
+    "end_actual": "2020-04-30T09:17:44.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "n1hzVsuHIIU",
+    "title": "【RFA】朝に運動するのは正気の沙汰とは思えません#12【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-04-29T23:20:27.000Z",
+    "available_at": "2020-04-29T22:00:35.000Z",
+    "duration": 2845,
+    "status": "past",
+    "start_scheduled": "2020-04-29T22:00:00.000Z",
+    "start_actual": "2020-04-29T22:00:35.000Z",
+    "end_actual": "2020-04-29T22:48:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "u7epEGrQK4U",
+    "title": "寝起きの僕とお話しよ?💙【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2020-04-28T23:56:09.000Z",
+    "available_at": "2020-04-28T22:03:01.000Z",
+    "duration": 4179,
+    "status": "past",
+    "start_scheduled": "2020-04-28T22:05:00.000Z",
+    "start_actual": "2020-04-28T22:03:01.000Z",
+    "end_actual": "2020-04-28T23:21:42.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "TaPjDeZxMkQ",
+    "title": "男の娘と朝ふぃっと@めいと!!  #11【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-04-27T23:24:25.000Z",
+    "available_at": "2020-04-27T22:01:06.000Z",
+    "duration": 2745,
+    "status": "past",
+    "start_scheduled": "2020-04-28T14:57:45.000Z",
+    "start_actual": "2020-04-27T22:01:06.000Z",
+    "end_actual": "2020-04-27T22:51:54.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Nemv7EAiXiM",
+    "title": "【Ark Genesis】僕だけのペットを捕まえたい!!!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ark",
+    "published_at": "2020-04-27T14:15:34.000Z",
+    "available_at": "2020-04-27T10:31:02.000Z",
+    "duration": 6680,
+    "status": "past",
+    "start_scheduled": "2020-04-27T10:30:00.000Z",
+    "start_actual": "2020-04-27T10:31:02.000Z",
+    "end_actual": "2020-04-27T12:22:32.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "0kHcGLDjMTk",
+    "title": "男の娘と運動する朝はイイゾ!?  #10【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-04-26T23:09:45.000Z",
+    "available_at": "2020-04-26T22:01:16.000Z",
+    "duration": 2021,
+    "status": "past",
+    "start_scheduled": "2020-04-26T22:00:00.000Z",
+    "start_actual": "2020-04-26T22:01:16.000Z",
+    "end_actual": "2020-04-26T22:35:09.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "8kT7JSsGdWE",
+    "title": "【ARK】ホロスタ島!! 島開き編【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ark",
+    "published_at": "2020-04-26T22:01:05.000Z",
+    "available_at": "2020-04-26T13:26:17.000Z",
+    "duration": 5141,
+    "status": "past",
+    "start_scheduled": "2020-04-27T06:24:59.000Z",
+    "start_actual": "2020-04-26T13:26:17.000Z",
+    "end_actual": "2020-04-26T14:51:57.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 5140
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 5140
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 5140
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 5140
+      }
+    ]
+  },
+  {
+    "id": "lNC9d8v1Zbk",
+    "title": "【ARK】ホロスタ島!! 島開き編【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "ark",
+    "published_at": "2020-04-26T13:27:49.000Z",
+    "available_at": "2020-04-26T13:04:14.000Z",
+    "duration": 1054,
+    "status": "past",
+    "start_scheduled": "2020-04-26T13:00:00.000Z",
+    "start_actual": "2020-04-26T13:04:14.000Z",
+    "end_actual": "2020-04-26T13:21:41.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 1047
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 1047
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 1047
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 1047
+      }
+    ]
+  },
+  {
+    "id": "1rxiJKR26v4",
+    "title": "【雀魂】男たちの仁義なき麻雀対決【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Mahjong",
+    "published_at": "2020-04-20T17:14:47.000Z",
+    "available_at": "2020-04-20T15:01:30.000Z",
+    "duration": 6707,
+    "status": "past",
+    "start_scheduled": "2020-04-20T15:00:00.000Z",
+    "start_actual": "2020-04-20T15:01:30.000Z",
+    "end_actual": "2020-04-20T16:53:12.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 6702
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 6702
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 6702
+      }
+    ]
+  },
+  {
+    "id": "VERcDINneZU",
+    "title": "【スマブラsp】武者修行の旅、始まる【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "smash",
+    "published_at": "2020-04-20T12:50:57.000Z",
+    "available_at": "2020-04-20T11:00:44.000Z",
+    "duration": 4548,
+    "status": "past",
+    "start_scheduled": "2020-04-20T11:00:00.000Z",
+    "start_actual": "2020-04-20T11:00:44.000Z",
+    "end_actual": "2020-04-20T12:16:42.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "85PU-Rhs2Ns",
+    "title": "第1回性癖レビュアーズ【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "published_at": "2020-04-08T16:34:49.000Z",
+    "available_at": "2020-04-08T15:01:24.000Z",
+    "duration": 3535,
+    "status": "past",
+    "start_scheduled": "2020-04-08T15:00:00.000Z",
+    "start_actual": "2020-04-08T15:01:24.000Z",
+    "end_actual": "2020-04-08T16:00:17.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "7zu8YgVuM_M",
+    "title": "劇場版APEX部 1st【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-03-27T11:09:57.000Z",
+    "available_at": "2020-03-25T09:03:25.000Z",
+    "duration": 228,
+    "status": "past",
+    "start_scheduled": "2020-03-25T06:35:00.000Z",
+    "start_actual": "2020-03-25T09:03:25.000Z",
+    "end_actual": "2020-03-25T10:18:19.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 4494
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 4494
+      }
+    ]
+  },
+  {
+    "id": "M9sjePt2Eyo",
+    "title": "劇場版・絶叫APEX部【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-03-18T12:34:05.000Z",
+    "available_at": "2020-03-18T11:01:50.000Z",
+    "duration": 3076,
+    "status": "past",
+    "start_scheduled": "2020-03-18T11:00:00.000Z",
+    "start_actual": "2020-03-18T11:01:50.000Z",
+    "end_actual": "2020-03-18T11:53:46.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 3116
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 3116
+      }
+    ]
+  },
+  {
+    "id": "WBUsm2Q19tI",
+    "title": "ついに...僕の新衣装ぜんぶ見せちゃいます!!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Outfit_Reveal",
+    "published_at": "2020-03-15T10:30:04.000Z",
+    "available_at": "2020-03-15T09:31:38.000Z",
+    "duration": 1559,
+    "status": "past",
+    "start_scheduled": "2020-03-15T09:30:00.000Z",
+    "start_actual": "2020-03-15T09:31:38.000Z",
+    "end_actual": "2020-03-15T09:58:17.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 1599
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 1599
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 1599
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 1599
+      }
+    ]
+  },
+  {
+    "id": "IKdbP1WNW9M",
+    "title": "突発ちびすたでAPEX!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2020-03-14T09:04:17.000Z",
+    "available_at": "2020-03-14T07:43:57.000Z",
+    "duration": 2747,
+    "status": "past",
+    "start_scheduled": "2020-03-14T07:40:00.000Z",
+    "start_actual": "2020-03-14T07:43:57.000Z",
+    "end_actual": "2020-03-14T08:30:00.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 2763
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 2763
+      }
+    ]
+  },
+  {
+    "id": "267GkuXpHv8",
+    "title": "【夜勤事件】男の娘が一人で夜勤すると……?【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Convenience_Store",
+    "published_at": "2020-03-12T18:28:00.000Z",
+    "available_at": "2020-03-12T16:30:59.000Z",
+    "duration": 4624,
+    "status": "past",
+    "start_scheduled": "2020-03-12T16:30:00.000Z",
+    "start_actual": "2020-03-12T16:30:59.000Z",
+    "end_actual": "2020-03-12T17:48:28.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "QGuqlXSx-Xs",
+    "title": "【Minecraft】破壊神とは僕のことだぁ!!ダイヤ掘るぞてめぇら!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2020-03-09T12:54:06.000Z",
+    "available_at": "2020-03-09T11:04:31.000Z",
+    "duration": 4429,
+    "status": "past",
+    "start_scheduled": "2020-03-09T11:00:00.000Z",
+    "start_actual": "2020-03-09T11:04:31.000Z",
+    "end_actual": "2020-03-09T12:16:24.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "mQ-da9Okq28",
+    "title": "ホロスタ鯖初上陸!!皆の家を見に行きたいな!!【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2020-02-22T15:14:24.000Z",
+    "available_at": "2020-02-22T14:00:49.000Z",
+    "duration": 2393,
+    "status": "past",
+    "start_scheduled": "2020-02-22T14:00:00.000Z",
+    "start_actual": "2020-02-22T14:00:49.000Z",
+    "end_actual": "2020-02-22T14:40:46.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ylgKdpFfNQU",
+    "title": "仁義無きマリカーで全員ごっ倒す【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Mario_Kart",
+    "published_at": "2020-02-20T14:22:37.000Z",
+    "available_at": "2020-02-20T13:00:45.000Z",
+    "duration": 2849,
+    "status": "past",
+    "start_scheduled": "2020-02-20T13:00:00.000Z",
+    "start_actual": "2020-02-20T13:00:45.000Z",
+    "end_actual": "2020-02-20T13:48:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "n6eupQwhJWo",
+    "title": "朝だー!!!僕だー!!!リングフィットだー!!!#9【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-02-05T22:50:28.000Z",
+    "available_at": "2020-02-05T21:30:16.000Z",
+    "duration": 2815,
+    "status": "past",
+    "start_scheduled": "2020-02-05T21:30:00.000Z",
+    "start_actual": "2020-02-05T21:30:16.000Z",
+    "end_actual": "2020-02-05T22:17:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "k07cczUIVaw",
+    "title": "お腹の筋肉痛って都市伝説だと思ってた #8【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-02-03T23:13:42.000Z",
+    "available_at": "2020-02-03T21:31:14.000Z",
+    "duration": 4019,
+    "status": "past",
+    "start_scheduled": "2020-02-03T21:30:00.000Z",
+    "start_actual": "2020-02-03T21:31:14.000Z",
+    "end_actual": "2020-02-03T22:38:12.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "VHN746PzFrg",
+    "title": "平日の朝だぞー!!おきろー!!#7【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-02-02T23:15:39.000Z",
+    "available_at": "2020-02-02T21:31:08.000Z",
+    "duration": 4175,
+    "status": "past",
+    "start_scheduled": "2020-02-02T21:30:00.000Z",
+    "start_actual": "2020-02-02T21:31:08.000Z",
+    "end_actual": "2020-02-02T22:40:45.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "EcAM_WKlk1Y",
+    "title": "つい朝ごはんを食べてしまった#6【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-30T22:57:59.000Z",
+    "available_at": "2020-01-30T21:30:59.000Z",
+    "duration": 3201,
+    "status": "past",
+    "start_scheduled": "2020-01-30T21:30:00.000Z",
+    "start_actual": "2020-01-30T21:30:59.000Z",
+    "end_actual": "2020-01-30T22:24:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "D1w2lTfEM6E",
+    "title": "関係ないけど朝までぶっ続けって憧れるよね#5【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-29T23:06:34.000Z",
+    "available_at": "2020-01-29T21:30:22.000Z",
+    "duration": 3687,
+    "status": "past",
+    "start_scheduled": "2020-01-29T21:30:00.000Z",
+    "start_actual": "2020-01-29T21:30:22.000Z",
+    "end_actual": "2020-01-29T22:31:51.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "iNxA3R57-Qg",
+    "title": "鏡見キラと朝のスト〇ッチ!!僕は多分寝てる!!#4【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-28T23:45:03.000Z",
+    "available_at": "2020-01-28T21:30:55.000Z",
+    "duration": 5831,
+    "status": "past",
+    "start_scheduled": "2020-01-28T21:30:00.000Z",
+    "start_actual": "2020-01-28T21:30:55.000Z",
+    "end_actual": "2020-01-28T23:08:04.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ASnZDf_xWLM",
+    "title": "僕と朝の体操……しよ?【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-27T23:09:39.000Z",
+    "available_at": "2020-01-27T21:30:07.000Z",
+    "duration": 3827,
+    "status": "past",
+    "start_scheduled": "2020-01-27T21:30:00.000Z",
+    "start_actual": "2020-01-27T21:30:07.000Z",
+    "end_actual": "2020-01-27T22:33:52.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dWaXfqqK3RY",
+    "title": "僕は過去に打ち勝つ、そのための準備はしてきた【リングフィットアドベンチャー】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-27T14:24:45.000Z",
+    "available_at": "2020-01-27T13:00:49.000Z",
+    "duration": 2935,
+    "status": "past",
+    "start_scheduled": "2020-01-27T13:00:00.000Z",
+    "start_actual": "2020-01-27T13:00:49.000Z",
+    "end_actual": "2020-01-27T13:49:45.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "hUOef3BJoxA",
+    "title": "第一回リングフィットアドベンチャー攻略会議【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-27T13:07:08.000Z",
+    "available_at": "2020-01-27T12:00:20.000Z",
+    "duration": 2857,
+    "status": "past",
+    "start_scheduled": "2020-01-27T12:00:00.000Z",
+    "start_actual": "2020-01-27T12:00:20.000Z",
+    "end_actual": "2020-01-27T12:48:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "fsJkbNTu1us",
+    "title": "【リングフィットアドベンチャー】男の娘の筋肉、舐めんなよ?【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "ringfit",
+    "published_at": "2020-01-25T12:24:57.000Z",
+    "available_at": "2020-01-25T11:00:31.000Z",
+    "duration": 3033,
+    "status": "past",
+    "start_scheduled": "2020-01-25T11:00:00.000Z",
+    "start_actual": "2020-01-25T11:00:31.000Z",
+    "end_actual": "2020-01-25T11:51:06.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "i2vzWGebIvs",
+    "title": "遭難したからメンバー全員暗○するよ!!【ホロスタ雪山】",
+    "type": "stream",
+    "topic_id": "project_winter",
+    "published_at": "2020-01-13T13:57:15.000Z",
+    "available_at": "2020-01-13T12:01:13.000Z",
+    "duration": 5907,
+    "status": "past",
+    "start_scheduled": "2020-01-13T12:00:00.000Z",
+    "start_actual": "2020-01-13T12:01:13.000Z",
+    "end_actual": "2020-01-13T13:39:35.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 5902
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 5902
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 5902
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 5902
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 5902
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 5902
+      }
+    ]
+  },
+  {
+    "id": "-SUJJ8-01HM",
+    "title": "7位以下で即終了マリオカート!!参加できるぞかかってこいや!!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Mario_Kart",
+    "published_at": "2020-01-11T13:58:44.000Z",
+    "available_at": "2020-01-11T13:00:47.000Z",
+    "duration": 1526,
+    "status": "past",
+    "start_scheduled": "2020-01-11T13:00:00.000Z",
+    "start_actual": "2020-01-11T13:00:47.000Z",
+    "end_actual": "2020-01-11T13:26:08.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dZW3PvmjGrY",
+    "title": "7位以下で即終了!!後輩騎士の妨害で僕の配信を終わらせられるかな?【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Mario_Kart",
+    "published_at": "2020-01-10T13:51:44.000Z",
+    "available_at": "2020-01-10T11:02:56.000Z",
+    "duration": 1129,
+    "status": "past",
+    "start_actual": "2020-01-10T11:02:56.000Z",
+    "end_actual": "2020-01-10T11:21:54.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 1138
+      }
+    ]
+  },
+  {
+    "id": "fl2s1chz5m0",
+    "title": "マリカは無礼講って聞いたから社長倒す【ホロスターズ/鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Mario_Kart",
+    "published_at": "2020-01-04T11:26:23.000Z",
+    "available_at": "2020-01-04T09:00:28.000Z",
+    "duration": 6222,
+    "status": "past",
+    "start_scheduled": "2020-01-04T09:00:00.000Z",
+    "start_actual": "2020-01-04T09:00:28.000Z",
+    "end_actual": "2020-01-04T10:44:13.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Roberu Ch. 夕刻ロベル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Yukoku Roberu"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Rikka ch.律可",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Rikka"
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Temma Ch. 岸堂天真",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Kishido Temma"
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCANDOlYTJT7N5jlRC3zfzVA",
+        "name": "Roberu Ch. 夕刻ロベル",
+        "duration_seconds": 6225
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 6225
+      },
+      {
+        "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+        "name": "Rikka ch.律可",
+        "duration_seconds": 6225
+      },
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 6225
+      },
+      {
+        "id": "UCGNI4MENvnsymYjKiZwv9eg",
+        "name": "Temma Ch. 岸堂天真",
+        "duration_seconds": 6225
+      },
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 6225
+      }
+    ]
+  },
+  {
+    "id": "UpGK10C_mMs",
+    "title": "最後です",
+    "type": "stream",
+    "published_at": "2019-12-31T07:07:37.000Z",
+    "available_at": "2019-12-31T05:01:02.000Z",
+    "duration": 5432,
+    "status": "past",
+    "start_scheduled": "2019-12-31T05:00:00.000Z",
+    "start_actual": "2019-12-31T05:01:02.000Z",
+    "end_actual": "2019-12-31T06:31:33.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      },
+      {
+        "id": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Suzaku Ch. 薬師寺朱雀",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AMLnZu_a75R9Gam4_hdwi8YLHLA3VLrJ1BMX7iT5ebk=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mbHOLOSTARS 1st Gen",
+        "english_name": "Yakushiji Suzaku"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 5431
+      },
+      {
+        "id": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+        "name": "Suzaku Ch. 薬師寺朱雀",
+        "duration_seconds": 5431
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 5431
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 5431
+      }
+    ]
+  },
+  {
+    "id": "FCH7GGFmnIg",
+    "title": "【ApexLegends】生意気なメンバーでチャンピオン....できるのかな!?【コラボ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2019-12-25T09:52:31.000Z",
+    "available_at": "2019-12-25T08:00:34.000Z",
+    "duration": 4316,
+    "status": "past",
+    "start_scheduled": "2019-12-25T08:00:00.000Z",
+    "start_actual": "2019-12-25T08:00:34.000Z",
+    "end_actual": "2019-12-25T09:12:14.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "org": "Hololive",
+        "lang": null,
+        "name": "astel ch.アステル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+        "english_name": "Astel Leda"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+        "name": "astel ch.アステル",
+        "duration_seconds": 4300
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 4300
+      }
+    ]
+  },
+  {
+    "id": "91Iw3K9zyKE",
+    "title": "【生放送】世界一受けたくないVtuberの授業 【男の娘編】",
+    "type": "stream",
+    "published_at": "2019-11-08T16:06:51.000Z",
+    "available_at": "2019-11-08T15:00:34.000Z",
+    "duration": 2016,
+    "status": "past",
+    "start_scheduled": "2019-11-08T15:00:00.000Z",
+    "start_actual": "2019-11-08T15:00:34.000Z",
+    "end_actual": "2019-11-08T15:34:05.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Aruran Ch. アルランディス",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Arurandeisu"
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      },
+      {
+        "id": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Suzaku Ch. 薬師寺朱雀",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ytc/AMLnZu_a75R9Gam4_hdwi8YLHLA3VLrJ1BMX7iT5ebk=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "mbHOLOSTARS 1st Gen",
+        "english_name": "Yakushiji Suzaku"
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Miyabi Ch. 花咲みやび",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Hanasaki Miyabi"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+        "name": "Aruran Ch. アルランディス",
+        "duration_seconds": 2011
+      },
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 2011
+      },
+      {
+        "id": "UCGKgJ4MtJ1coi6tWJUfnsQA",
+        "name": "Suzaku Ch. 薬師寺朱雀",
+        "duration_seconds": 2011
+      },
+      {
+        "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+        "name": "Miyabi Ch. 花咲みやび",
+        "duration_seconds": 2011
+      }
+    ]
+  },
+  {
+    "id": "2y_Pk_x6Ouk",
+    "title": "【APEX】今日実装のDUOモードで遊び倒すぞ!!【コラボ】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2019-11-06T15:41:21.000Z",
+    "available_at": "2019-11-06T14:00:29.000Z",
+    "duration": 3547,
+    "status": "past",
+    "start_scheduled": "2019-11-06T14:00:00.000Z",
+    "start_actual": "2019-11-06T14:00:29.000Z",
+    "end_actual": "2019-11-06T14:59:31.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "org": "Hololive",
+        "lang": null,
+        "name": "Izuru Ch. 奏手イヅル",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "maHOLOSTARS 1st Gen",
+        "english_name": "Kanade Izuru"
+      }
+    ],
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": [
+      {
+        "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "name": "Izuru Ch. 奏手イヅル",
+        "duration_seconds": 3542
+      }
+    ]
+  },
+  {
+    "id": "km7IPNvlUGw",
+    "title": "重大なお話が。。。。ありません!!!!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2019-11-05T15:36:58.000Z",
+    "available_at": "2019-11-05T14:02:33.000Z",
+    "duration": 3605,
+    "status": "past",
+    "start_actual": "2019-11-05T14:02:33.000Z",
+    "end_actual": "2019-11-05T15:02:35.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "m4XD6cVb0eQ",
+    "title": "新居に下見行くから皆で決めよ!!【事故物件】",
+    "type": "stream",
+    "topic_id": "Stigmatized_Property",
+    "published_at": "2019-10-31T14:04:27.000Z",
+    "available_at": "2019-10-31T12:04:02.000Z",
+    "duration": 4653,
+    "status": "past",
+    "start_actual": "2019-10-31T12:04:02.000Z",
+    "end_actual": "2019-10-31T13:21:41.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "hocZTZZiL8U",
+    "title": "僕、スライムに転生しました!!【MO: Astray】",
+    "type": "stream",
+    "topic_id": "MO:Astray",
+    "published_at": "2019-10-27T13:44:55.000Z",
+    "available_at": "2019-10-27T11:02:27.000Z",
+    "duration": 7576,
+    "status": "past",
+    "start_actual": "2019-10-27T11:02:27.000Z",
+    "end_actual": "2019-10-27T13:08:41.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "JwHRQqnRq08",
+    "title": "【誕生日】鏡見キラ生誕祭だー!!祝え!!出来れば!!あわよくば!!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2019-10-26T13:34:54.000Z",
+    "available_at": "2019-10-26T12:00:13.000Z",
+    "duration": 3619,
+    "status": "past",
+    "start_scheduled": "2019-10-26T12:00:00.000Z",
+    "start_actual": "2019-10-26T12:00:13.000Z",
+    "end_actual": "2019-10-26T13:00:29.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "j_jt7n_Ojro",
+    "title": "僕はもうダメかもしれない...託せるのはそう...僕の意思を受け継ぐ君たちだけ...【雑談】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2019-10-25T12:42:07.000Z",
+    "available_at": "2019-10-25T11:02:00.000Z",
+    "duration": 3901,
+    "status": "past",
+    "start_actual": "2019-10-25T11:02:00.000Z",
+    "end_actual": "2019-10-25T12:07:01.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "-2DqdK0wX4Y",
+    "title": "男の娘Vtuber最大の危機!?でもない雑談!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2019-10-18T13:56:41.000Z",
+    "available_at": "2019-10-18T12:01:24.000Z",
+    "duration": 4258,
+    "status": "past",
+    "start_actual": "2019-10-18T12:01:24.000Z",
+    "end_actual": "2019-10-18T13:12:24.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Mdt-SZIDXPM",
+    "title": "とっぱつリハビリ雑談!ごめんて!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2019-09-28T16:39:11.000Z",
+    "available_at": "2019-09-28T15:01:14.000Z",
+    "duration": 3767,
+    "status": "past",
+    "start_actual": "2019-09-28T15:01:14.000Z",
+    "end_actual": "2019-09-28T16:04:01.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "DMSsD0w6Sok",
+    "title": "【初配信】期待の大型男の娘新人、鏡見キラだよ!!【ホロスターズ1期生】",
+    "type": "stream",
+    "topic_id": "Debut_Stream",
+    "published_at": "2019-09-05T15:49:19.000Z",
+    "available_at": "2019-09-05T14:00:57.000Z",
+    "duration": 4187,
+    "status": "past",
+    "start_scheduled": "2019-09-05T14:00:00.000Z",
+    "start_actual": "2019-09-05T14:00:57.000Z",
+    "end_actual": "2019-09-05T15:10:48.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "1gLkWrNMhfc",
+    "title": "僕がママになって皆のこと寝かしつけてあげる!!【鏡見キラ】",
+    "type": "stream",
+    "published_at": "2019-07-06T16:08:00.000Z",
+    "available_at": "2019-07-06T15:01:00.000Z",
+    "duration": 1945,
+    "status": "past",
+    "start_scheduled": "2019-07-06T15:00:00.000Z",
+    "start_actual": "2019-07-06T15:01:00.000Z",
+    "end_actual": "2019-07-06T15:34:08.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "c4lLcl7vab4",
+    "title": "男の娘にしか聞けないそんなお悩み……みんなあるよね!?【鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Marshmallow",
+    "published_at": "2019-07-03T16:35:33.000Z",
+    "available_at": "2019-07-03T15:01:06.000Z",
+    "duration": 3544,
+    "status": "past",
+    "start_scheduled": "2019-07-03T15:00:00.000Z",
+    "start_actual": "2019-07-03T15:01:06.000Z",
+    "end_actual": "2019-07-03T16:00:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "abrxGSFC9oE",
+    "title": "【記念枠】NG無し!?お礼にマシュマロ何でも答えちゃうよ!【鏡見キラ】",
+    "type": "stream",
+    "topic_id": "Marshmallow",
+    "published_at": "2019-06-27T16:39:38.000Z",
+    "available_at": "2019-06-27T15:00:16.000Z",
+    "duration": 3676,
+    "status": "past",
+    "start_scheduled": "2019-06-27T15:00:00.000Z",
+    "start_actual": "2019-06-27T15:00:16.000Z",
+    "end_actual": "2019-06-27T16:01:32.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lrdXrq9SjZw",
+    "title": "ひyな話したら激辛お菓子の刑なマシュマロ雑談会【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Marshmallow",
+    "published_at": "2019-06-19T13:42:18.000Z",
+    "available_at": "2019-06-19T12:01:38.000Z",
+    "duration": 3862,
+    "status": "past",
+    "start_scheduled": "2019-06-19T12:00:00.000Z",
+    "start_actual": "2019-06-19T12:01:38.000Z",
+    "end_actual": "2019-06-19T13:05:56.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "DY736VolDLs",
+    "title": "全然Hじゃない単語を使っても雰囲気は維持できるのか!? 【ホロスターズ】",
+    "type": "stream",
+    "published_at": "2019-06-15T15:06:07.000Z",
+    "available_at": "2019-06-15T14:00:30.000Z",
+    "duration": 1908,
+    "status": "past",
+    "start_scheduled": "2019-06-15T14:00:00.000Z",
+    "start_actual": "2019-06-15T14:00:30.000Z",
+    "end_actual": "2019-06-15T14:32:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "1aBL-bj1vTM",
+    "title": "【スプラトゥーン2】負けたら激辛お菓子だけど勝つから余裕✨ 【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Splatoon",
+    "published_at": "2019-06-14T13:47:04.000Z",
+    "available_at": "2019-06-14T12:00:47.000Z",
+    "duration": 3980,
+    "status": "past",
+    "start_scheduled": "2019-06-14T12:00:00.000Z",
+    "start_actual": "2019-06-14T12:00:47.000Z",
+    "end_actual": "2019-06-14T13:08:01.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lq5pjWsst40",
+    "title": "【謝罪放送】男の娘Vtuber号泣!? 涙の理由とは!!!【ホロスターズ】",
+    "type": "stream",
+    "published_at": "2019-06-12T15:36:53.000Z",
+    "available_at": "2019-06-12T14:00:55.000Z",
+    "duration": 3574,
+    "status": "past",
+    "start_scheduled": "2019-06-12T14:00:00.000Z",
+    "start_actual": "2019-06-12T14:00:55.000Z",
+    "end_actual": "2019-06-12T15:00:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  },
+  {
+    "id": "VK0AkfOFGLI",
+    "title": "【初配信🔰】男の娘Vtuber、鏡見キラだよ~!!【ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Debut_Stream",
+    "published_at": "2019-06-09T11:37:56.000Z",
+    "available_at": "2019-06-09T10:00:57.000Z",
+    "duration": 3587,
+    "status": "past",
+    "start_scheduled": "2019-06-09T10:00:00.000Z",
+    "start_actual": "2019-06-09T10:00:57.000Z",
+    "end_actual": "2019-06-09T11:01:47.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCEzsociuFqVwgZuMaZqaCsg",
+      "name": "Kira Ch. 鏡見キラ",
+      "org": "Hololive",
+      "suborg": "mbHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9CNXhF_CPokaUVmjsIMP-sf0QDPQb7-Zdk8gkx=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagami Kira"
+    },
+    "collabs": []
+  }
+]
