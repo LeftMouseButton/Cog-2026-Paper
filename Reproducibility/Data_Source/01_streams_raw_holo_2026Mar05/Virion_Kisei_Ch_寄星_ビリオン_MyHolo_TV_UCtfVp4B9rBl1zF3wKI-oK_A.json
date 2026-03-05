@@ -1,0 +1,4613 @@
+[
+  {
+    "id": "x-7tgtbfVFk",
+    "title": "Goodbye :)【 Virion Kisei | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Graduation",
+    "published_at": "2023-01-06T22:04:24.000Z",
+    "available_at": "2023-01-06T15:00:15.000Z",
+    "duration": 19130,
+    "status": "past",
+    "start_scheduled": "2023-01-06T15:00:00.000Z",
+    "start_actual": "2023-01-06T15:00:15.000Z",
+    "end_actual": "2023-01-06T20:19:08.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Gb84vIiBsHg",
+    "title": "【 SLIMESHOW 】  The last episode w/ @ReinaSunCh @HazumiAileen【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2022-11-27T14:14:39.000Z",
+    "available_at": "2022-11-27T01:01:01.000Z",
+    "duration": 4194,
+    "status": "past",
+    "start_scheduled": "2022-11-27T01:00:00.000Z",
+    "start_actual": "2022-11-27T01:01:01.000Z",
+    "end_actual": "2022-11-27T02:10:48.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCKJexadCeNo3lu0U20skmNg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Reina Sun Ch. レイナ・サン",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/BGuVdQJKCCdsCcghPBHaNsnTgs0J0H37ANxjBAOYC4hFtz6tYnmuQUxmpcsTd6a7THJ_leGVMQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "eoEONIA",
+        "english_name": "Reina Sun"
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Hazumi",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "HAHeirs Agency",
+        "english_name": "Hazumi Aileen Okazaki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCKJexadCeNo3lu0U20skmNg",
+        "name": "Reina Sun Ch. レイナ・サン",
+        "duration_seconds": 4187
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "name": "Hazumi",
+        "duration_seconds": 4187
+      }
+    ]
+  },
+  {
+    "id": "b73A5I5hGc0",
+    "title": "playing games with viewers and offering subs if I lose【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-09-27T16:25:18.000Z",
+    "available_at": "2022-09-27T13:31:11.000Z",
+    "duration": 9617,
+    "status": "past",
+    "start_scheduled": "2022-09-27T13:30:00.000Z",
+    "start_actual": "2022-09-27T13:31:11.000Z",
+    "end_actual": "2022-09-27T16:11:23.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "jJRzrxZtZ30",
+    "title": "league of legends but it's air hokey【 Omega strikers | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "League_of_Legends",
+    "published_at": "2022-09-25T16:07:31.000Z",
+    "available_at": "2022-09-25T13:29:23.000Z",
+    "duration": 8576,
+    "status": "past",
+    "start_scheduled": "2022-09-25T13:30:00.000Z",
+    "start_actual": "2022-09-25T13:29:23.000Z",
+    "end_actual": "2022-09-25T15:52:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "WFzznBNWCJ4",
+    "title": "rating your animal impressions【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-09-24T16:20:12.000Z",
+    "available_at": "2022-09-24T13:30:16.000Z",
+    "duration": 9229,
+    "status": "past",
+    "start_scheduled": "2022-09-24T13:30:00.000Z",
+    "start_actual": "2022-09-24T13:30:16.000Z",
+    "end_actual": "2022-09-24T16:10:17.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "9QCKnmB-cFs",
+    "title": "valorant but I'm so bad it looks like I'm playing with my head【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-09-18T15:58:14.000Z",
+    "available_at": "2022-09-18T13:30:12.000Z",
+    "duration": 8025,
+    "status": "past",
+    "start_scheduled": "2022-09-18T13:30:00.000Z",
+    "start_actual": "2022-09-18T13:30:12.000Z",
+    "end_actual": "2022-09-18T15:43:50.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "sZQI5Lgfots",
+    "title": "【 Karaoke x Euro truck sim 2 】 what's on the radio ? 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Truck_Simulator",
+    "published_at": "2022-09-16T15:51:51.000Z",
+    "available_at": "2022-09-16T13:33:54.000Z",
+    "duration": 7590,
+    "status": "past",
+    "start_scheduled": "2022-09-16T13:30:00.000Z",
+    "start_actual": "2022-09-16T13:33:54.000Z",
+    "end_actual": "2022-09-16T15:40:22.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3CVismQ9rfs",
+    "title": "Just sang a bit of A Million Miles away from Belle (this was supposed to be a sh0rt lmao) #cover",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2022-09-15T11:45:01.000Z",
+    "available_at": "2022-09-15T11:45:01.000Z",
+    "duration": 68,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lxufbpbIAXI",
+    "title": "【 Cult of the lamb 】 your lord and savior ; me 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Cult_of_the_Lamb",
+    "published_at": "2022-09-14T16:08:45.000Z",
+    "available_at": "2022-09-14T13:30:32.000Z",
+    "duration": 8758,
+    "status": "past",
+    "start_scheduled": "2022-09-14T13:30:00.000Z",
+    "start_actual": "2022-09-14T13:30:32.000Z",
+    "end_actual": "2022-09-14T15:56:24.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "uFJdqn6u_Jw",
+    "title": "stalking my viewers on twitter【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-09-13T15:49:05.000Z",
+    "available_at": "2022-09-13T13:30:54.000Z",
+    "duration": 7779,
+    "status": "past",
+    "start_scheduled": "2022-09-13T13:30:00.000Z",
+    "start_actual": "2022-09-13T13:30:54.000Z",
+    "end_actual": "2022-09-13T15:40:24.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Jb3Q2NaucFc",
+    "title": "When your vocal files gets corrupted so a full cover turns into a short   - cover 😭 #shorts #cover",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-09-11T11:00:09.000Z",
+    "available_at": "2022-09-11T11:00:09.000Z",
+    "duration": 43,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "MaCTbg1nxuc",
+    "title": "【 Motesolo 】Cringe fest【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-09-08T15:48:58.000Z",
+    "available_at": "2022-09-08T13:30:08.000Z",
+    "duration": 7868,
+    "status": "past",
+    "start_scheduled": "2022-09-08T13:30:00.000Z",
+    "start_actual": "2022-09-08T13:30:08.000Z",
+    "end_actual": "2022-09-08T15:41:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Cn-IkTVOdr8",
+    "title": "【 Zatsudan 】Back hooome【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2022-09-06T15:18:39.000Z",
+    "available_at": "2022-09-06T13:00:22.000Z",
+    "duration": 7876,
+    "status": "past",
+    "start_scheduled": "2022-09-06T13:00:00.000Z",
+    "start_actual": "2022-09-06T13:00:22.000Z",
+    "end_actual": "2022-09-06T15:11:32.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "sprUi1PNwR4",
+    "title": "【 Handcam Magic 】Bibbidi Bobbidi Boo w/ @LunarisUrufi 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Camera_Stream",
+    "published_at": "2022-09-03T08:57:26.000Z",
+    "available_at": "2022-09-02T13:01:45.000Z",
+    "duration": 7279,
+    "status": "past",
+    "start_scheduled": "2022-09-02T13:00:00.000Z",
+    "start_actual": "2022-09-02T13:01:45.000Z",
+    "end_actual": "2022-09-02T15:03:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Tory_g-lHQc",
+    "title": "I'M BACK WITH A HORROR GAME【 The mortuary assistant - MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Mortuary_Assistant",
+    "published_at": "2022-08-15T17:08:56.000Z",
+    "available_at": "2022-08-15T14:30:01.000Z",
+    "duration": 8436,
+    "status": "past",
+    "start_scheduled": "2022-08-15T14:30:00.000Z",
+    "start_actual": "2022-08-15T14:30:01.000Z",
+    "end_actual": "2022-08-15T16:50:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "POXAatr02G8",
+    "title": "A french vtuber genius vs the world #shorts #clips #compilation",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-08-10T14:00:11.000Z",
+    "available_at": "2022-08-10T14:00:11.000Z",
+    "duration": 40,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ksAU9lq30yE",
+    "title": "I'm not sorry 😏 - cover #shorts #cover",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-08-09T14:11:44.000Z",
+    "available_at": "2022-08-09T14:11:44.000Z",
+    "duration": 50,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "tYfTzIgzluM",
+    "title": "Why you should never trust your friends in a horror game.. #shorts #phasmophobia",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-08-08T15:00:41.000Z",
+    "available_at": "2022-08-08T15:00:41.000Z",
+    "duration": 36,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Hazumi",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "HAHeirs Agency",
+        "english_name": "Hazumi Aileen Okazaki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "name": "Hazumi",
+        "duration_seconds": 36
+      }
+    ]
+  },
+  {
+    "id": "iXrTYRlrJPs",
+    "title": "I'm a tree.【 Tree Simulator - MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-08-03T04:10:13.000Z",
+    "available_at": "2022-08-02T14:29:57.000Z",
+    "duration": 5631,
+    "status": "past",
+    "start_scheduled": "2022-08-02T14:30:00.000Z",
+    "start_actual": "2022-08-02T14:29:57.000Z",
+    "end_actual": "2022-08-02T16:07:19.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "WiuhcGgEQEI",
+    "title": "【 SLIMESHOW 】 THE THIRD EPISODE 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-31T03:26:05.000Z",
+    "available_at": "2022-07-30T14:30:46.000Z",
+    "duration": 3060,
+    "status": "past",
+    "start_scheduled": "2022-07-30T14:30:00.000Z",
+    "start_actual": "2022-07-30T14:30:46.000Z",
+    "end_actual": "2022-07-30T15:21:40.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "org": "Independents",
+        "lang": null,
+        "name": "おじきちゃん / Ojiki-Channel",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/l-CZRpj9KYYnWzaBp7aA8NRE-4OGyprg4S8qrQqGhoIzia94khQNyEOvrRvWGpPu9e3glQU4aac=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Ojiki-chan"
+      },
+      {
+        "id": "UCR4HhH-VSMQjySd0qoVh91g",
+        "org": "Independents",
+        "lang": null,
+        "name": "Issei Kai Ch. 一生カイ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/klWgkR79Wh1PklCJ4c-MlnQq5cLXYItgkIXU2Dv6ZSC3NSi924PN-egSKJbXpIN6MI9hqvBE=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Issei Kai"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "name": "おじきちゃん / Ojiki-Channel",
+        "duration_seconds": 3054
+      },
+      {
+        "id": "UCR4HhH-VSMQjySd0qoVh91g",
+        "name": "Issei Kai Ch. 一生カイ",
+        "duration_seconds": 3054
+      }
+    ]
+  },
+  {
+    "id": "rfid3-u-InM",
+    "title": "Most overrated anime DRAMA between vtubers | SlimeShow #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-29T12:21:53.000Z",
+    "available_at": "2022-07-29T12:21:53.000Z",
+    "duration": 51,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCg7sW-h1PUowdiR5K4HlBew",
+        "org": "Phase Connect",
+        "lang": null,
+        "name": "Lia Ch.【Phase Connect】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/U5s5Gce5hiNrJzMx37WENIbEaf2AZzsrT3jB9rbZyuxSZ17jExx8Ivn50-5_4690EwduTbZnwQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "10Phase 01 - OriginS",
+        "english_name": "Rinkou Ashelia"
+      },
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Nen Ch. 弦稀ネン ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/gVKZnBMzxQbZtVdS_f793p2sj1bl3WxkylzqbltsfSTTxiIwi_mB--JgfX-y486GDN36nOXmaQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Tsurugi Nen"
+      },
+      {
+        "id": "UC-ENagPkiLO3u2nlhTZVDHQ",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Ayane Hylo",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/I4SJyhBb9R1pc-OE9EUjQHuOrUGCLLG7Mv_7F7yiz1l5MgvcVCg7kjLYKD4Ockgobs2l_31T7g=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": null
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCg7sW-h1PUowdiR5K4HlBew",
+        "name": "Lia Ch.【Phase Connect】",
+        "duration_seconds": 51
+      },
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "name": "Nen Ch. 弦稀ネン ",
+        "duration_seconds": 51
+      },
+      {
+        "id": "UC-ENagPkiLO3u2nlhTZVDHQ",
+        "name": "Ayane Hylo",
+        "duration_seconds": 51
+      }
+    ]
+  },
+  {
+    "id": "a8DL8aJ5aik",
+    "title": "Still have C 0 V I D.. Hopefully this game can holocure me (lol I get paid for these)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "HoloCure",
+    "published_at": "2022-07-28T17:12:36.000Z",
+    "available_at": "2022-07-28T14:28:41.000Z",
+    "duration": 8903,
+    "status": "past",
+    "start_scheduled": "2022-07-28T14:30:00.000Z",
+    "start_actual": "2022-07-28T14:28:41.000Z",
+    "end_actual": "2022-07-28T16:56:57.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ZxBSJWRPal8",
+    "title": "【 Guitar Karaoke 】AAAAAAAAAAAAAAAAAA【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-07-28T03:53:26.000Z",
+    "available_at": "2022-07-27T14:30:07.000Z",
+    "duration": 4549,
+    "status": "past",
+    "start_scheduled": "2022-07-27T14:30:00.000Z",
+    "start_actual": "2022-07-27T14:30:07.000Z",
+    "end_actual": "2022-07-27T15:47:25.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "RI9F_FMv2pE",
+    "title": "First time valorant player playing last comp game of his life #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-23T11:00:26.000Z",
+    "available_at": "2022-07-23T11:00:26.000Z",
+    "duration": 32,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "8viJNd05D-c",
+    "title": "【 SLIMESHOW 】 THE SECOND EPISODE 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-22T16:14:31.000Z",
+    "available_at": "2022-07-22T02:59:33.000Z",
+    "duration": 4224,
+    "status": "past",
+    "start_scheduled": "2022-07-22T03:00:00.000Z",
+    "start_actual": "2022-07-22T02:59:33.000Z",
+    "end_actual": "2022-07-22T04:09:50.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Nen Ch. 弦稀ネン ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/gVKZnBMzxQbZtVdS_f793p2sj1bl3WxkylzqbltsfSTTxiIwi_mB--JgfX-y486GDN36nOXmaQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Tsurugi Nen"
+      },
+      {
+        "id": "UCg7sW-h1PUowdiR5K4HlBew",
+        "org": "Phase Connect",
+        "lang": null,
+        "name": "Lia Ch.【Phase Connect】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/U5s5Gce5hiNrJzMx37WENIbEaf2AZzsrT3jB9rbZyuxSZ17jExx8Ivn50-5_4690EwduTbZnwQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "10Phase 01 - OriginS",
+        "english_name": "Rinkou Ashelia"
+      },
+      {
+        "id": "UC-ENagPkiLO3u2nlhTZVDHQ",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Ayane Hylo",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/I4SJyhBb9R1pc-OE9EUjQHuOrUGCLLG7Mv_7F7yiz1l5MgvcVCg7kjLYKD4Ockgobs2l_31T7g=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": null
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "name": "Nen Ch. 弦稀ネン ",
+        "duration_seconds": 4217
+      },
+      {
+        "id": "UCg7sW-h1PUowdiR5K4HlBew",
+        "name": "Lia Ch.【Phase Connect】",
+        "duration_seconds": 4217
+      },
+      {
+        "id": "UC-ENagPkiLO3u2nlhTZVDHQ",
+        "name": "Ayane Hylo",
+        "duration_seconds": 4217
+      }
+    ]
+  },
+  {
+    "id": "CtudNqg9guk",
+    "title": "【 Genshin Impact 】 Spending $150 while having the worst gacha luck ever 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "genshin",
+    "published_at": "2022-07-22T04:21:21.000Z",
+    "available_at": "2022-07-21T14:28:45.000Z",
+    "duration": 6402,
+    "status": "past",
+    "start_scheduled": "2022-07-21T14:30:00.000Z",
+    "start_actual": "2022-07-21T14:28:45.000Z",
+    "end_actual": "2022-07-21T16:15:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "FK4j3YIWm3Y",
+    "title": "Virion Kisei Sings Compliation from live karaoke - ACOUSTIC / MYHOLO TV",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-07-20T11:56:01.000Z",
+    "available_at": "2022-07-20T11:56:01.000Z",
+    "duration": 2401,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "MEzqED0bIA0",
+    "title": "Apex but it's valorant comp【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-07-18T17:11:05.000Z",
+    "available_at": "2022-07-18T14:29:04.000Z",
+    "duration": 9099,
+    "status": "past",
+    "start_scheduled": "2022-07-18T14:30:00.000Z",
+    "start_actual": "2022-07-18T14:29:04.000Z",
+    "end_actual": "2022-07-18T17:00:37.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "uFmmKTmWSDE",
+    "title": "【 SLIMESHOW 】  THE FIRST EPISODE w/ @ReinaSunCh @HazumiAileen & Lili【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-16T16:24:33.000Z",
+    "available_at": "2022-07-16T03:00:09.000Z",
+    "duration": 4797,
+    "status": "past",
+    "start_scheduled": "2022-07-16T03:00:00.000Z",
+    "start_actual": "2022-07-16T03:00:09.000Z",
+    "end_actual": "2022-07-16T04:19:58.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCKJexadCeNo3lu0U20skmNg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Reina Sun Ch. レイナ・サン",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/BGuVdQJKCCdsCcghPBHaNsnTgs0J0H37ANxjBAOYC4hFtz6tYnmuQUxmpcsTd6a7THJ_leGVMQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "eoEONIA",
+        "english_name": "Reina Sun"
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Hazumi",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "HAHeirs Agency",
+        "english_name": "Hazumi Aileen Okazaki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCKJexadCeNo3lu0U20skmNg",
+        "name": "Reina Sun Ch. レイナ・サン",
+        "duration_seconds": 4789
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "name": "Hazumi",
+        "duration_seconds": 4789
+      }
+    ]
+  },
+  {
+    "id": "h05azMfgoFQ",
+    "title": "My left b00ba... #shorts #clips",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-14T14:00:20.000Z",
+    "available_at": "2022-07-14T14:00:20.000Z",
+    "duration": 27,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "HxdIB6n_oo8",
+    "title": "Going back to Korean roots (again)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-13T16:47:13.000Z",
+    "available_at": "2022-07-13T14:30:25.000Z",
+    "duration": 7822,
+    "status": "past",
+    "start_scheduled": "2022-07-13T14:30:00.000Z",
+    "start_actual": "2022-07-13T14:30:25.000Z",
+    "end_actual": "2022-07-13T16:40:38.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "v4VKYvCYxrQ",
+    "title": "First time playing ranked ! (for real this time)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-12T18:31:20.000Z",
+    "available_at": "2022-07-12T14:27:44.000Z",
+    "duration": 13559,
+    "status": "past",
+    "start_scheduled": "2022-07-12T14:30:00.000Z",
+    "start_actual": "2022-07-12T14:27:44.000Z",
+    "end_actual": "2022-07-12T18:15:38.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "XIFr06KRiFw",
+    "title": "Getting rejected by your crush.. | #shorts #clips",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-10T14:00:30.000Z",
+    "available_at": "2022-07-10T14:00:30.000Z",
+    "duration": 24,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ef8rdZo_5mU",
+    "title": "Wasting my nights with you 😞 | #shorts #cover",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-08T16:12:15.000Z",
+    "available_at": "2022-07-08T16:12:15.000Z",
+    "duration": 54,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3_7kJE4yms8",
+    "title": "【 Guitar Karaoke 】 BRINGBRING【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-07-06T16:38:57.000Z",
+    "available_at": "2022-07-06T14:26:48.000Z",
+    "duration": 7563,
+    "status": "past",
+    "start_scheduled": "2022-07-06T14:30:00.000Z",
+    "start_actual": "2022-07-06T14:26:48.000Z",
+    "end_actual": "2022-07-06T16:32:44.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "vXQFpBkQEh0",
+    "title": "Leveling up to play ranked ! (still a noob)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-07-05T17:20:06.000Z",
+    "available_at": "2022-07-05T14:29:51.000Z",
+    "duration": 9122,
+    "status": "past",
+    "start_scheduled": "2022-07-05T14:30:00.000Z",
+    "start_actual": "2022-07-05T14:29:51.000Z",
+    "end_actual": "2022-07-05T17:03:48.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "u9X5SRY01ho",
+    "title": "Tokyo Revengers OP 「 Cry Baby 」by Official髭男dism / Virion Kisei (cover) - TV size",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2022-07-03T15:00:14.000Z",
+    "available_at": "2022-07-03T15:00:14.000Z",
+    "duration": 100,
+    "status": "past",
+    "start_scheduled": "2022-07-03T15:00:00.000Z",
+    "start_actual": "2022-07-03T15:00:14.000Z",
+    "end_actual": "2022-07-03T15:06:46.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "2Piu8lawSTk",
+    "title": "New cover trailer (link in comments and description) ! #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-07-02T14:30:01.000Z",
+    "available_at": "2022-07-02T14:30:01.000Z",
+    "duration": 13,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "IfDP5W2OPtU",
+    "title": "Dad Application Review YOU can be my father【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Review",
+    "published_at": "2022-06-28T17:52:15.000Z",
+    "available_at": "2022-06-28T14:27:25.000Z",
+    "duration": 10169,
+    "status": "past",
+    "start_scheduled": "2022-06-28T14:30:00.000Z",
+    "start_actual": "2022-06-28T14:27:25.000Z",
+    "end_actual": "2022-06-28T17:16:45.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "5dGrC7e55JA",
+    "title": "I'M THE GUY IN THE CHAIR w/ Lili & @HazumiAileen 【 Phasmophobia | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Phasmophobia",
+    "published_at": "2022-06-25T03:54:33.000Z",
+    "available_at": "2022-06-24T23:59:55.000Z",
+    "duration": 13209,
+    "status": "past",
+    "start_scheduled": "2022-06-25T00:00:00.000Z",
+    "start_actual": "2022-06-24T23:59:55.000Z",
+    "end_actual": "2022-06-25T03:39:56.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Hazumi",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "HAHeirs Agency",
+        "english_name": "Hazumi Aileen Okazaki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "name": "Hazumi",
+        "duration_seconds": 13201
+      }
+    ]
+  },
+  {
+    "id": "b_HZTnYnMdk",
+    "title": "THIS IS THE END JACOB | The Quarry - Part 2【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "The_Quarry",
+    "published_at": "2022-06-23T19:09:25.000Z",
+    "available_at": "2022-06-23T14:56:43.000Z",
+    "duration": 14074,
+    "status": "past",
+    "start_scheduled": "2022-06-23T15:00:00.000Z",
+    "start_actual": "2022-06-23T14:56:43.000Z",
+    "end_actual": "2022-06-23T18:51:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "xKcPNBTzHC4",
+    "title": "Until Dawn 2.0 (I WILL make terrible choices) | The Quarry - Part 1【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "The_Quarry",
+    "published_at": "2022-06-20T18:09:39.000Z",
+    "available_at": "2022-06-20T14:30:40.000Z",
+    "duration": 12018,
+    "status": "past",
+    "start_scheduled": "2022-06-20T14:30:00.000Z",
+    "start_actual": "2022-06-20T14:30:40.000Z",
+    "end_actual": "2022-06-20T17:58:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "EdTX3Q77o-o",
+    "title": "Am I getting better- ? (no)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-06-18T18:06:08.000Z",
+    "available_at": "2022-06-18T14:28:20.000Z",
+    "duration": 12241,
+    "status": "past",
+    "start_scheduled": "2022-06-18T14:30:00.000Z",
+    "start_actual": "2022-06-18T14:28:20.000Z",
+    "end_actual": "2022-06-18T17:52:17.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "81YzFrZLrLA",
+    "title": "【 Code Veins Pt. 1 】 First playthrough series after 7 monthsof streaming 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "CODE_VEIN",
+    "published_at": "2022-06-16T18:17:29.000Z",
+    "available_at": "2022-06-16T14:56:33.000Z",
+    "duration": 10905,
+    "status": "past",
+    "start_scheduled": "2022-06-16T15:00:00.000Z",
+    "start_actual": "2022-06-16T14:56:33.000Z",
+    "end_actual": "2022-06-16T17:58:41.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "CcfGOaoOJFk",
+    "title": "SPYxFAMILY Ending 喜劇「 Comedy 」by gen hoshino / Virion Kisei (cover)  - TV size",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2022-06-15T11:00:15.000Z",
+    "available_at": "2022-06-15T11:00:15.000Z",
+    "duration": 92,
+    "status": "past",
+    "start_scheduled": "2022-06-15T11:00:00.000Z",
+    "start_actual": "2022-06-15T11:00:15.000Z",
+    "end_actual": "2022-06-15T11:02:37.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "hQuUylhFCtA",
+    "title": "Minecraft and tips to apply to myholo !【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-06-11T17:58:10.000Z",
+    "available_at": "2022-06-11T14:29:29.000Z",
+    "duration": 11582,
+    "status": "past",
+    "start_scheduled": "2022-06-11T14:30:00.000Z",
+    "start_actual": "2022-06-11T14:29:29.000Z",
+    "end_actual": "2022-06-11T17:42:23.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dUqrgsxXWGA",
+    "title": "[ Membership Challenge ! ] INTENSE WORKOUT TAG #4 (ft @lilianavampaiaofficial  (EN)【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "membersonly",
+    "published_at": "2022-06-09T04:09:42.000Z",
+    "available_at": "2022-06-09T06:28:52.000Z",
+    "duration": 6029,
+    "status": "past",
+    "start_scheduled": "2022-06-09T06:30:00.000Z",
+    "start_actual": "2022-06-09T06:28:52.000Z",
+    "end_actual": "2022-06-09T08:09:27.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "af-8WgNe-es",
+    "title": "Washed up player first day of ranked in Yu-gi-oh Master duel【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Yu-Gi-Oh!",
+    "published_at": "2022-06-07T18:38:01.000Z",
+    "available_at": "2022-06-07T14:27:58.000Z",
+    "duration": 13900,
+    "status": "past",
+    "start_scheduled": "2022-06-07T14:30:00.000Z",
+    "start_actual": "2022-06-07T14:27:58.000Z",
+    "end_actual": "2022-06-07T18:19:31.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "v3L6Ox2NoIQ",
+    "title": "[ Membership Challenge ! ] INTENSE WORKOUT TAG 2 (ft @lilianavampaiaofficial  (EN)【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "membersonly",
+    "published_at": "2022-06-07T03:21:36.000Z",
+    "available_at": "2022-06-07T06:28:39.000Z",
+    "duration": 4791,
+    "status": "past",
+    "start_scheduled": "2022-06-07T06:30:00.000Z",
+    "start_actual": "2022-06-07T06:28:39.000Z",
+    "end_actual": "2022-06-07T07:48:23.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Vdb0ew9I-wQ",
+    "title": "French man buys a $1600 computer to rage on valorant【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-06-06T17:51:11.000Z",
+    "available_at": "2022-06-06T14:28:52.000Z",
+    "duration": 10535,
+    "status": "past",
+    "start_scheduled": "2022-06-06T14:30:00.000Z",
+    "start_actual": "2022-06-06T14:28:52.000Z",
+    "end_actual": "2022-06-06T17:24:21.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "wl_iNGFZaFM",
+    "title": "Working out and sweating together【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-06-04T17:15:03.000Z",
+    "available_at": "2022-06-04T14:59:38.000Z",
+    "duration": 7498,
+    "status": "past",
+    "start_scheduled": "2022-06-04T15:00:00.000Z",
+    "start_actual": "2022-06-04T14:59:38.000Z",
+    "end_actual": "2022-06-04T17:04:29.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "wgpDwYtcU7k",
+    "title": "Welp, valorant again, you know the rules..【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-05-31T18:02:23.000Z",
+    "available_at": "2022-05-31T14:29:28.000Z",
+    "duration": 10633,
+    "status": "past",
+    "start_scheduled": "2022-05-31T14:30:00.000Z",
+    "start_actual": "2022-05-31T14:29:28.000Z",
+    "end_actual": "2022-05-31T17:26:34.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "nx_F4TvW4NU",
+    "title": "Retired competitive player goes back to Yu-Gi-Oh! Master Duel【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Yu-Gi-Oh!",
+    "published_at": "2022-05-30T19:04:18.000Z",
+    "available_at": "2022-05-30T14:31:06.000Z",
+    "duration": 15046,
+    "status": "past",
+    "start_scheduled": "2022-05-30T14:30:00.000Z",
+    "start_actual": "2022-05-30T14:31:06.000Z",
+    "end_actual": "2022-05-30T18:41:45.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "HYX1puGj2D4",
+    "title": "First valorant collab with 4 randos ! (but yes , I still suck)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-05-28T05:14:31.000Z",
+    "available_at": "2022-05-28T02:00:58.000Z",
+    "duration": 10786,
+    "status": "past",
+    "start_scheduled": "2022-05-28T02:00:00.000Z",
+    "start_actual": "2022-05-28T02:00:58.000Z",
+    "end_actual": "2022-05-28T05:01:06.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCpJtk0myFr5WnyfsmnInP-w",
+        "org": "Nijisanji",
+        "lang": null,
+        "name": "Hana Macchia Ch.【NIJISANJI・にじさんじ】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/NKxdKXFr34YhNGCpoB1QNWyVXz8nqg5oIrEN5Gf6ow4jZQHOUDcqN_9_txx1f3yen0ZtrEc-PdY=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "30Ex-ID 3SetBBQ",
+        "english_name": "Hana Macchia"
+      },
+      {
+        "id": "UCk5r533QVMgJUdWwqegH2TA",
+        "org": "Nijisanji",
+        "lang": null,
+        "name": "Azura Cecillia Ch.",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/vQ4uwdnkDaC1srk9lbdEaoycXASSkFaFCvTRoycKUt590-UH4VIVVUKbPuWgET-qdK5mmmij=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "35Ex-ID LAN_NEE3S",
+        "english_name": "Azura Cecillia"
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Hazumi",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "HAHeirs Agency",
+        "english_name": "Hazumi Aileen Okazaki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCpJtk0myFr5WnyfsmnInP-w",
+        "name": "Hana Macchia Ch.【NIJISANJI・にじさんじ】",
+        "duration_seconds": 10808
+      },
+      {
+        "id": "UCk5r533QVMgJUdWwqegH2TA",
+        "name": "Azura Cecillia Ch.",
+        "duration_seconds": 10808
+      },
+      {
+        "id": "UCEkOIpdTU2rNcY1a0iVhQig",
+        "name": "Hazumi",
+        "duration_seconds": 10808
+      }
+    ]
+  },
+  {
+    "id": "q5WOmgA-Xxg",
+    "title": "シカバネーゼ (Shikabaneze) / Virion Kisei (cover) by jon-YAKITORY - Short ver.",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2022-05-27T14:30:11.000Z",
+    "available_at": "2022-05-27T14:30:11.000Z",
+    "duration": 102,
+    "status": "past",
+    "songcount": 1,
+    "start_scheduled": "2022-05-27T14:30:00.000Z",
+    "start_actual": "2022-05-27T14:30:11.000Z",
+    "end_actual": "2022-05-27T14:32:47.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "8icmaPNqLaw",
+    "title": "Solo Phasmo Screamo Bodoh【 MyHolo TV | Phasmophobia 】",
+    "type": "stream",
+    "topic_id": "Phasmophobia",
+    "published_at": "2022-05-25T17:52:41.000Z",
+    "available_at": "2022-05-25T14:30:37.000Z",
+    "duration": 11105,
+    "status": "past",
+    "start_scheduled": "2022-05-25T14:30:00.000Z",
+    "start_actual": "2022-05-25T14:30:37.000Z",
+    "end_actual": "2022-05-25T17:35:43.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "eCrl0DasXb8",
+    "title": "Valorant addict (but I still suck)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-05-24T18:13:15.000Z",
+    "available_at": "2022-05-24T14:27:57.000Z",
+    "duration": 12087,
+    "status": "past",
+    "start_scheduled": "2022-05-24T14:30:00.000Z",
+    "start_actual": "2022-05-24T14:27:57.000Z",
+    "end_actual": "2022-05-24T17:49:18.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "_9gzyYwEFNI",
+    "title": "【 10k CELEBRATION DONOTHON  】 Singing the names of every of my 10,000 subs 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "celebration",
+    "published_at": "2022-05-21T18:04:39.000Z",
+    "available_at": "2022-05-21T13:00:54.000Z",
+    "duration": 16765,
+    "status": "past",
+    "start_scheduled": "2022-05-21T13:00:00.000Z",
+    "start_actual": "2022-05-21T13:00:54.000Z",
+    "end_actual": "2022-05-21T17:40:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "eh7Yixt74UY",
+    "title": "french brains in new escape room game !【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-05-19T20:28:19.000Z",
+    "available_at": "2022-05-19T14:33:02.000Z",
+    "duration": 18717,
+    "status": "past",
+    "start_scheduled": "2022-05-19T14:30:00.000Z",
+    "start_actual": "2022-05-19T14:33:02.000Z",
+    "end_actual": "2022-05-19T19:44:52.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "z-lJKl3Yn0Q",
+    "title": "bad valorant player goes pewpew (again)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-05-18T17:24:51.000Z",
+    "available_at": "2022-05-18T14:31:01.000Z",
+    "duration": 9203,
+    "status": "past",
+    "start_scheduled": "2022-05-18T14:30:00.000Z",
+    "start_actual": "2022-05-18T14:31:01.000Z",
+    "end_actual": "2022-05-18T17:04:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3P_uPPimYUg",
+    "title": "Beginner Valorant arc begins !【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "valorant",
+    "published_at": "2022-05-17T17:40:08.000Z",
+    "available_at": "2022-05-17T14:30:43.000Z",
+    "duration": 10419,
+    "status": "past",
+    "start_scheduled": "2022-05-17T14:30:00.000Z",
+    "start_actual": "2022-05-17T14:30:43.000Z",
+    "end_actual": "2022-05-17T17:24:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "DgQ4xgICFj8",
+    "title": "Light switch but it's japanese but it's also rock version",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-05-15T12:17:44.000Z",
+    "available_at": "2022-05-15T12:17:44.000Z",
+    "duration": 37,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "qypEbDj7s8I",
+    "title": "First time valorant player first clutch #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-05-14T11:21:35.000Z",
+    "available_at": "2022-05-14T11:21:35.000Z",
+    "duration": 29,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "o_QCbjTsIy8",
+    "title": "Playing valorant for the first time #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-05-12T10:49:30.000Z",
+    "available_at": "2022-05-12T10:49:30.000Z",
+    "duration": 38,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "aJprdkjdHYA",
+    "title": "French chef vtuber plays Cooking simulator (no, I lied) 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Cooking_Simulator",
+    "published_at": "2022-05-11T17:29:19.000Z",
+    "available_at": "2022-05-11T14:46:35.000Z",
+    "duration": 9099,
+    "status": "past",
+    "start_scheduled": "2022-05-11T14:45:00.000Z",
+    "start_actual": "2022-05-11T14:46:35.000Z",
+    "end_actual": "2022-05-11T17:18:05.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "txn6qo8N8CY",
+    "title": "【 Guitar Karaoke 】 No way a wild singing male vtuber【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-05-10T04:39:00.000Z",
+    "available_at": "2022-05-09T14:46:45.000Z",
+    "duration": 6304,
+    "status": "past",
+    "start_scheduled": "2022-05-09T14:45:00.000Z",
+    "start_actual": "2022-05-09T14:46:45.000Z",
+    "end_actual": "2022-05-09T16:31:42.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "kNn8PDI0b7o",
+    "title": "The basic Virion Kisei vtuber experience #shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-05-08T13:58:34.000Z",
+    "available_at": "2022-05-08T13:58:34.000Z",
+    "duration": 30,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3SZ3YIkRRik",
+    "title": "I'm addicted this roguelite is too good send h4lp 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-05-06T18:31:50.000Z",
+    "available_at": "2022-05-06T14:59:55.000Z",
+    "duration": 11363,
+    "status": "past",
+    "start_scheduled": "2022-05-06T15:00:00.000Z",
+    "start_actual": "2022-05-06T14:59:55.000Z",
+    "end_actual": "2022-05-06T18:09:15.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "kLZ3Xp77vgg",
+    "title": "stand by me ? 💙 #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-05-05T12:09:01.000Z",
+    "available_at": "2022-05-05T12:09:01.000Z",
+    "duration": 58,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "sEvm_Xzb87I",
+    "title": "【 Zatsundan Week Recap 】 blablabla【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2022-05-03T17:48:45.000Z",
+    "available_at": "2022-05-03T14:36:00.000Z",
+    "duration": 10637,
+    "status": "past",
+    "start_scheduled": "2022-05-03T15:00:00.000Z",
+    "start_actual": "2022-05-03T14:36:00.000Z",
+    "end_actual": "2022-05-03T17:33:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "7qvyiYxUG9E",
+    "title": "【  Membership stream 】  Sharing super secret stuff 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "membersonly",
+    "published_at": "2022-04-30T13:52:29.000Z",
+    "available_at": "2022-04-30T14:59:40.000Z",
+    "duration": 2671,
+    "status": "past",
+    "start_scheduled": "2022-04-30T15:00:00.000Z",
+    "start_actual": "2022-04-30T14:59:40.000Z",
+    "end_actual": "2022-04-30T15:44:06.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "yNyb7ehgWz4",
+    "title": "Just the two of us 😳 - cover #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-04-29T11:38:34.000Z",
+    "available_at": "2022-04-29T11:38:34.000Z",
+    "duration": 57,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "WYfsKyJFuwc",
+    "title": "【  Jump King 】 The return (for real this time)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Jump_King",
+    "published_at": "2022-04-28T17:54:31.000Z",
+    "available_at": "2022-04-28T15:00:23.000Z",
+    "duration": 9667,
+    "status": "past",
+    "start_scheduled": "2022-04-28T15:00:00.000Z",
+    "start_actual": "2022-04-28T15:00:23.000Z",
+    "end_actual": "2022-04-28T17:41:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "vjB6z5Q6npQ",
+    "title": "【  The Closing Shift 】 Please hold my antenna..【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "The_Closing_Shift",
+    "published_at": "2022-04-26T17:43:36.000Z",
+    "available_at": "2022-04-26T15:00:56.000Z",
+    "duration": 8990,
+    "status": "past",
+    "start_scheduled": "2022-04-26T15:00:00.000Z",
+    "start_actual": "2022-04-26T15:00:56.000Z",
+    "end_actual": "2022-04-26T17:30:51.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "g1MgJbuKnvY",
+    "title": "【  End of duolingo week  】 Testing newfound knowledge w/ @uzukitomoya 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Duolingo",
+    "published_at": "2022-04-24T21:26:40.000Z",
+    "available_at": "2022-04-24T18:30:21.000Z",
+    "duration": 9694,
+    "status": "past",
+    "start_scheduled": "2022-04-24T18:30:00.000Z",
+    "start_actual": "2022-04-24T18:30:21.000Z",
+    "end_actual": "2022-04-24T21:11:48.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCrJWs9LeZ0LcnHfRxi8OKPQ",
+        "org": "Independents",
+        "lang": null,
+        "name": "Tomoya Ch.",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/RY72TSyTr2fcpM6QLsYVZbpPUeG8kzU8N2Ly_yIP9ezssm_TWrJ63w48koVDSAX4ASgKPB-1sg=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Uzuki Tomoya"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCrJWs9LeZ0LcnHfRxi8OKPQ",
+        "name": "Tomoya Ch.",
+        "duration_seconds": 9687
+      }
+    ]
+  },
+  {
+    "id": "gOeOdon7I-E",
+    "title": "【 Duoling JP Day 537359  】 nihongo jouzu desu dattebayo【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-04-23T17:21:54.000Z",
+    "available_at": "2022-04-23T15:00:47.000Z",
+    "duration": 7830,
+    "status": "past",
+    "start_scheduled": "2022-04-23T15:00:00.000Z",
+    "start_actual": "2022-04-23T15:00:47.000Z",
+    "end_actual": "2022-04-23T17:11:09.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "kp5KGdPFoHo",
+    "title": "【 Duoling JP Day 3  】 I'm fluent ! (no)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-04-22T04:59:40.000Z",
+    "available_at": "2022-04-21T15:01:16.000Z",
+    "duration": 6363,
+    "status": "past",
+    "start_scheduled": "2022-04-21T15:00:00.000Z",
+    "start_actual": "2022-04-21T15:01:16.000Z",
+    "end_actual": "2022-04-21T16:47:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dM9BqGiiwaA",
+    "title": "Becoming fluent in a week (no) Japanese duolingo week START !【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Duolingo",
+    "published_at": "2022-04-19T18:29:09.000Z",
+    "available_at": "2022-04-19T14:57:41.000Z",
+    "duration": 11584,
+    "status": "past",
+    "start_scheduled": "2022-04-19T15:00:00.000Z",
+    "start_actual": "2022-04-19T14:57:41.000Z",
+    "end_actual": "2022-04-19T18:10:39.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "1_ikN1XgW1g",
+    "title": "【 Birthday Stream 】 I'M ANCIENT【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2022-04-16T18:01:38.000Z",
+    "available_at": "2022-04-16T15:00:34.000Z",
+    "duration": 10017,
+    "status": "past",
+    "start_scheduled": "2022-04-16T15:00:00.000Z",
+    "start_actual": "2022-04-16T15:00:34.000Z",
+    "end_actual": "2022-04-16T17:47:25.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "w4vcVp9IIDc",
+    "title": "Coromon : Back to retro Pokemon and discoveries【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Coromon",
+    "published_at": "2022-04-14T23:18:52.000Z",
+    "available_at": "2022-04-14T20:02:30.000Z",
+    "duration": 10648,
+    "status": "past",
+    "start_scheduled": "2022-04-14T20:00:00.000Z",
+    "start_actual": "2022-04-14T20:02:30.000Z",
+    "end_actual": "2022-04-14T22:59:54.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "5xQkxWwPaoY",
+    "title": "IKEMEN RION COMPILATION",
+    "type": "stream",
+    "published_at": "2022-04-14T15:20:44.000Z",
+    "available_at": "2022-04-14T15:20:44.000Z",
+    "duration": 82,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "jTDVXOephPE",
+    "title": "I'm a little turnip boi :flushed:【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-04-09T01:52:49.000Z",
+    "available_at": "2022-04-08T11:59:56.000Z",
+    "duration": 6035,
+    "status": "past",
+    "start_scheduled": "2022-04-08T12:00:00.000Z",
+    "start_actual": "2022-04-08T11:59:56.000Z",
+    "end_actual": "2022-04-08T13:40:28.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lMDKHySEcjw",
+    "title": "【  Minecraft  】the negative fps minecraft experience【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-04-04T01:49:15.000Z",
+    "available_at": "2022-04-03T12:01:13.000Z",
+    "duration": 6007,
+    "status": "past",
+    "start_scheduled": "2022-04-03T12:00:00.000Z",
+    "start_actual": "2022-04-03T12:01:13.000Z",
+    "end_actual": "2022-04-03T13:41:13.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "38x5rzSgLxA",
+    "title": "I'm am one with the ikemen 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-04-02T02:06:24.000Z",
+    "available_at": "2022-04-01T12:30:39.000Z",
+    "duration": 5391,
+    "status": "past",
+    "start_scheduled": "2022-04-01T12:30:00.000Z",
+    "start_actual": "2022-04-01T12:30:39.000Z",
+    "end_actual": "2022-04-01T14:00:22.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "QRN-33_EpYc",
+    "title": "【 PropNight 】 I don't know what the heck I'm doing here 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Propnight",
+    "published_at": "2022-03-30T23:02:25.000Z",
+    "available_at": "2022-03-30T20:06:53.000Z",
+    "duration": 9604,
+    "status": "past",
+    "start_scheduled": "2022-03-30T20:00:00.000Z",
+    "start_actual": "2022-03-30T20:06:53.000Z",
+    "end_actual": "2022-03-30T22:46:50.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "org": "Independents",
+        "lang": null,
+        "name": "おじきちゃん / Ojiki-Channel",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/l-CZRpj9KYYnWzaBp7aA8NRE-4OGyprg4S8qrQqGhoIzia94khQNyEOvrRvWGpPu9e3glQU4aac=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Ojiki-chan"
+      },
+      {
+        "id": "UCyKsg-57XC9pyHbP7v3kCPQ",
+        "org": "Independents",
+        "lang": null,
+        "name": "Miori Celesta",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/Q0w45rY6mWM8OdwqbGiPglvN-RmDRK0ROWVCZadC94ZkY0lp5WrD4CEXwGx79mukngFMTCsumQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Miori Celesta"
+      },
+      {
+        "id": "UCZQ7nZ8Lc7pslBN0gN1Jg0w",
+        "org": "Twitch Independents",
+        "lang": null,
+        "name": "Bao The Whale",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fJ2hcScik3fXOrocxtQnZR6tWCF3hHv1BpICNWQDQlnI9qoRGriykN0c2_GPzNh1bK6xEk4-xA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "utUnited Talent Agency",
+        "english_name": "Bao"
+      },
+      {
+        "id": "UCswvd6_YWmd6riRk-8oT-sA",
+        "org": "Independents",
+        "lang": null,
+        "name": "Shiki Miyoshino / 美吉野しき【Requiem】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/kbKuqoidgIrleE3K_KNDSNGqHKdfeo88Kg9xLQa1qARf20LNDxCvwxYWwDQ7c1LmkfmlgzXftQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "reRequiem",
+        "english_name": "Shiki Miyoshino"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "name": "おじきちゃん / Ojiki-Channel",
+        "duration_seconds": 9597
+      },
+      {
+        "id": "UCyKsg-57XC9pyHbP7v3kCPQ",
+        "name": "Miori Celesta",
+        "duration_seconds": 9597
+      },
+      {
+        "id": "UCZQ7nZ8Lc7pslBN0gN1Jg0w",
+        "name": "Bao The Whale",
+        "duration_seconds": 9597
+      },
+      {
+        "id": "UCswvd6_YWmd6riRk-8oT-sA",
+        "name": "Shiki Miyoshino / 美吉野しき【Requiem】",
+        "duration_seconds": 9597
+      }
+    ]
+  },
+  {
+    "id": "CWlZ2OHO5R4",
+    "title": "【  Grounded 】smoll..  【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Grounded",
+    "published_at": "2022-03-19T16:49:04.000Z",
+    "available_at": "2022-03-19T13:00:28.000Z",
+    "duration": 12126,
+    "status": "past",
+    "start_scheduled": "2022-03-19T13:00:00.000Z",
+    "start_actual": "2022-03-19T13:00:28.000Z",
+    "end_actual": "2022-03-19T16:22:26.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UC-DzOMtuxruzMD0HtTGg9fQ",
+        "org": "Independents",
+        "lang": null,
+        "name": "Kurumi Ch. 【Project Kavvaii】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/euhdbETwIyX7BCedhcJyT8BkvsMR2PyQRPUnrHP36JtcOBCcdEty-HaiDBv_oaToqY5H07jB=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Aozora Kurumi"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCDdmoA79bfI8DHDnE_Yy2dg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Oumiya Emma / 大宮エマ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/4-nLw8PR9CORCich3OuYrMxtNPBSqnWXXyYGKMSho9a5ogJ0QJBIMyxZ9bu5tMLUN-5zscnD=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Emma Oumiya"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UC-DzOMtuxruzMD0HtTGg9fQ",
+        "name": "Kurumi Ch. 【Project Kavvaii】",
+        "duration_seconds": 12118
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 12118
+      },
+      {
+        "id": "UCDdmoA79bfI8DHDnE_Yy2dg",
+        "name": "Oumiya Emma / 大宮エマ",
+        "duration_seconds": 12118
+      }
+    ]
+  },
+  {
+    "id": "8vNGCCBAlyA",
+    "title": "I'm a tree.  【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-03-17T15:23:23.000Z",
+    "available_at": "2022-03-17T13:01:44.000Z",
+    "duration": 7825,
+    "status": "past",
+    "start_scheduled": "2022-03-17T13:00:00.000Z",
+    "start_actual": "2022-03-17T13:01:44.000Z",
+    "end_actual": "2022-03-17T15:11:59.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ZEP-Hpkk2n0",
+    "title": "Let's make a dumb original song together ! 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2022-03-15T16:03:30.000Z",
+    "available_at": "2022-03-15T12:55:14.000Z",
+    "duration": 10505,
+    "status": "past",
+    "start_scheduled": "2022-03-15T12:45:00.000Z",
+    "start_actual": "2022-03-15T12:55:14.000Z",
+    "end_actual": "2022-03-15T15:50:09.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "GZ7uT7KNDMc",
+    "title": "Being into furries | MonZTalk Ep 1. w/ @lilianavampaiaofficial 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2022-03-13T03:25:55.000Z",
+    "available_at": "2022-03-12T14:00:22.000Z",
+    "duration": 4779,
+    "status": "past",
+    "start_scheduled": "2022-03-12T14:00:00.000Z",
+    "start_actual": "2022-03-12T14:00:22.000Z",
+    "end_actual": "2022-03-12T15:19:50.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "cx64OEFOIwQ",
+    "title": "Send this to your crush. (original song)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2022-03-09T11:26:05.000Z",
+    "available_at": "2022-03-09T11:26:05.000Z",
+    "duration": 88,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "2Oe0WyTdEEI",
+    "title": "I voiced your tweets (but it's bad and anime)",
+    "type": "stream",
+    "published_at": "2022-03-05T12:17:09.000Z",
+    "available_at": "2022-03-05T12:17:09.000Z",
+    "duration": 69,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lXx5o_NXmNA",
+    "title": "【  VAMPIRE SURVIVORS 】new addiction..  【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Vampire_Survivors",
+    "published_at": "2022-03-03T16:18:40.000Z",
+    "available_at": "2022-03-03T12:00:16.000Z",
+    "duration": 13258,
+    "status": "past",
+    "start_scheduled": "2022-03-03T12:00:00.000Z",
+    "start_actual": "2022-03-03T12:00:16.000Z",
+    "end_actual": "2022-03-03T15:41:06.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "wY-t_Ez99BE",
+    "title": "【  Late 5k Celebration  】 7 is the new 5 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "celebration",
+    "published_at": "2022-03-01T15:47:18.000Z",
+    "available_at": "2022-03-01T12:01:17.000Z",
+    "duration": 12635,
+    "status": "past",
+    "start_scheduled": "2022-03-01T12:00:00.000Z",
+    "start_actual": "2022-03-01T12:01:17.000Z",
+    "end_actual": "2022-03-01T15:32:48.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "4-THP1bFSDk",
+    "title": "【  Motesolo  】 Getting a gf in korean 【 MyHolo TV 】 w/ @AozoraKurumi",
+    "type": "stream",
+    "published_at": "2022-02-26T17:56:51.000Z",
+    "available_at": "2022-02-26T14:01:27.000Z",
+    "duration": 13088,
+    "status": "past",
+    "start_scheduled": "2022-02-26T14:00:00.000Z",
+    "start_actual": "2022-02-26T14:01:27.000Z",
+    "end_actual": "2022-02-26T17:39:31.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UC-DzOMtuxruzMD0HtTGg9fQ",
+        "org": "Independents",
+        "lang": null,
+        "name": "Kurumi Ch. 【Project Kavvaii】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/euhdbETwIyX7BCedhcJyT8BkvsMR2PyQRPUnrHP36JtcOBCcdEty-HaiDBv_oaToqY5H07jB=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Aozora Kurumi"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UC-DzOMtuxruzMD0HtTGg9fQ",
+        "name": "Kurumi Ch. 【Project Kavvaii】",
+        "duration_seconds": 13084
+      }
+    ]
+  },
+  {
+    "id": "gwodPeO53O4",
+    "title": "\"hehe\" [ Karaoke Uragiri no yuuyake throwback ] #shorts #cover",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-02-22T12:09:43.000Z",
+    "available_at": "2022-02-22T12:09:43.000Z",
+    "duration": 53,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "eHwStyOrrcA",
+    "title": "【  FreeTalk / Guitar  】 Leeeet's catch up 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2022-02-19T17:00:58.000Z",
+    "available_at": "2022-02-19T13:29:09.000Z",
+    "duration": 11789,
+    "status": "past",
+    "start_scheduled": "2022-02-19T13:30:00.000Z",
+    "start_actual": "2022-02-19T13:29:09.000Z",
+    "end_actual": "2022-02-19T16:50:58.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "J47LgVrjvXs",
+    "title": "【  Keep Talking and Nobody Explodes 】 Just 2 french people yelling w/ Karrot 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "keep_talking_and_nobody_explodes",
+    "published_at": "2022-02-17T16:31:23.000Z",
+    "available_at": "2022-02-17T12:30:49.000Z",
+    "duration": 13233,
+    "status": "past",
+    "start_scheduled": "2022-02-17T12:30:00.000Z",
+    "start_actual": "2022-02-17T12:30:49.000Z",
+    "end_actual": "2022-02-17T16:11:20.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "XL4S7Sp3kNc",
+    "title": "A song from a single guy on valentine's day",
+    "type": "stream",
+    "published_at": "2022-02-15T12:05:36.000Z",
+    "available_at": "2022-02-15T12:05:36.000Z",
+    "duration": 84,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "QYLXJxHRIMs",
+    "title": "【   Apex Legends Endurance  】 Plastic player tries gets carried to gold【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2022-02-13T05:59:21.000Z",
+    "available_at": "2022-02-12T23:02:28.000Z",
+    "duration": 23517,
+    "status": "past",
+    "start_scheduled": "2022-02-12T23:00:00.000Z",
+    "start_actual": "2022-02-12T23:02:28.000Z",
+    "end_actual": "2022-02-13T05:34:14.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "org": "Independents",
+        "lang": null,
+        "name": "Nen Ch. 弦稀ネン ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/gVKZnBMzxQbZtVdS_f793p2sj1bl3WxkylzqbltsfSTTxiIwi_mB--JgfX-y486GDN36nOXmaQ=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Tsurugi Nen"
+      },
+      {
+        "id": "UCALvlEyjxjF5jnheSl0oSxw",
+        "org": "Independents",
+        "lang": null,
+        "name": "Kazune Ch. 徹夜和音 ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/JfDk8lj4xmjCwIuosgLjN3qs5WynQdPx4S7fQb0B4yvo4wLE2scmqiy0h8Qa_5dewJu4kfWirDA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Tetsuya Kazune"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCNUS0XshN1Tf7iLdd0MpPAg",
+        "name": "Nen Ch. 弦稀ネン ",
+        "duration_seconds": 23506
+      },
+      {
+        "id": "UCALvlEyjxjF5jnheSl0oSxw",
+        "name": "Kazune Ch. 徹夜和音 ",
+        "duration_seconds": 23506
+      }
+    ]
+  },
+  {
+    "id": "Jn5JzFX5yts",
+    "title": "【  Escape simulator  】 Today we simp- I mean think w/ @HORI07  【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Escape_Simulator",
+    "published_at": "2022-02-07T17:52:38.000Z",
+    "available_at": "2022-02-07T13:02:00.000Z",
+    "duration": 14964,
+    "status": "past",
+    "start_scheduled": "2022-02-07T13:00:00.000Z",
+    "start_actual": "2022-02-07T13:02:00.000Z",
+    "end_actual": "2022-02-07T17:11:22.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCMvc8BlQ7r5gRbz-D2EY0LA",
+        "org": "Independents",
+        "lang": null,
+        "name": "HØRI 07 ⌜VZ⌟",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/SQ_UiUeZ5bSS1rwP-Y8M4z_HdYsB_qacJsS8t1y3GRF0pMU6hBzAV05TUhmBoFdciy-pErj_URc=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "vzVirtual Zeven",
+        "english_name": "HØRI 07"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCMvc8BlQ7r5gRbz-D2EY0LA",
+        "name": "HØRI 07 ⌜VZ⌟",
+        "duration_seconds": 14962
+      }
+    ]
+  },
+  {
+    "id": "3Q4eLOfSbj4",
+    "title": "uwu asmr (use 🎧) #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-02-06T12:28:32.000Z",
+    "available_at": "2022-02-06T12:28:32.000Z",
+    "duration": 2,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ubaEW48xs8g",
+    "title": "【  Socks King/Queen Competition  】 BETTER SOCKS BETTER PERSON 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-02-04T16:20:51.000Z",
+    "available_at": "2022-02-04T12:31:08.000Z",
+    "duration": 11859,
+    "status": "past",
+    "start_scheduled": "2022-02-04T12:30:00.000Z",
+    "start_actual": "2022-02-04T12:31:08.000Z",
+    "end_actual": "2022-02-04T15:48:41.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "GQae0PIVoug",
+    "title": "Envy baby raw singing to start the week (MOM I'M A REAL VSINGER NOW ?) #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-02-03T12:03:48.000Z",
+    "available_at": "2022-02-03T12:03:48.000Z",
+    "duration": 32,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "h2VDEqtuD44",
+    "title": "【  Raft  】 Slime loves paddles 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Raft",
+    "published_at": "2022-02-01T16:46:02.000Z",
+    "available_at": "2022-02-01T13:31:13.000Z",
+    "duration": 11097,
+    "status": "past",
+    "start_scheduled": "2022-02-01T13:30:00.000Z",
+    "start_actual": "2022-02-01T13:31:13.000Z",
+    "end_actual": "2022-02-01T16:36:23.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "aHjBRYq4CSI",
+    "title": "【  Super Auto Pet  】 I love animals.. 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Super_Auto_Pets",
+    "published_at": "2022-01-29T15:15:25.000Z",
+    "available_at": "2022-01-29T12:01:19.000Z",
+    "duration": 11128,
+    "status": "past",
+    "start_scheduled": "2022-01-29T12:00:00.000Z",
+    "start_actual": "2022-01-29T12:01:19.000Z",
+    "end_actual": "2022-01-29T15:06:40.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dwRgDD_BA8I",
+    "title": "Baby...  ( Cover #Shorts ) 【 MyHolo TV | Virion Kisei 】",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-01-26T12:00:31.000Z",
+    "available_at": "2022-01-26T12:00:31.000Z",
+    "duration": 43,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "X_pkpKKjytc",
+    "title": "【  Guitar and Singing  】 Recording shorts live 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2022-01-24T16:48:03.000Z",
+    "available_at": "2022-01-24T13:00:03.000Z",
+    "duration": 12785,
+    "status": "past",
+    "start_scheduled": "2022-01-24T13:00:00.000Z",
+    "start_actual": "2022-01-24T13:00:03.000Z",
+    "end_actual": "2022-01-24T16:32:59.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "P1UFh4O30zw",
+    "title": "Shining.",
+    "type": "stream",
+    "published_at": "2022-01-23T12:08:40.000Z",
+    "available_at": "2022-01-23T12:08:40.000Z",
+    "duration": 78,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "xEkeEhYRUaQ",
+    "title": "【 Say So JP 】 Scuffed Acoustic ver. #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2022-01-21T15:16:27.000Z",
+    "available_at": "2022-01-21T15:16:27.000Z",
+    "duration": 37,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "k51LBCuUyCs",
+    "title": "【  Minecraft  】probably 20 min of minecraft and 3 hours of just talking【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-01-20T16:49:37.000Z",
+    "available_at": "2022-01-20T13:01:37.000Z",
+    "duration": 11415,
+    "status": "past",
+    "start_scheduled": "2022-01-20T13:00:00.000Z",
+    "start_actual": "2022-01-20T13:01:37.000Z",
+    "end_actual": "2022-01-20T16:11:47.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ofATuVecLBg",
+    "title": "【 Devour + Podcast 】 20 minutes of Devour w/ @LunarisUrufi  【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Devour",
+    "published_at": "2022-01-18T17:05:05.000Z",
+    "available_at": "2022-01-18T12:31:08.000Z",
+    "duration": 15605,
+    "status": "past",
+    "start_scheduled": "2022-01-18T12:30:00.000Z",
+    "start_actual": "2022-01-18T12:31:08.000Z",
+    "end_actual": "2022-01-18T16:51:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "fWQQyMUcdAU",
+    "title": "【  Minecraft  】death and no fps【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-01-14T17:09:36.000Z",
+    "available_at": "2022-01-14T13:00:38.000Z",
+    "duration": 13395,
+    "status": "past",
+    "start_scheduled": "2022-01-14T13:00:00.000Z",
+    "start_actual": "2022-01-14T13:00:38.000Z",
+    "end_actual": "2022-01-14T16:43:47.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "adxxe665Hsg",
+    "title": "Pranking Vtuber friends ! GONE WRONG (no)【 MyHolo TV | Virion Kisei 】",
+    "type": "stream",
+    "topic_id": "Ranking",
+    "published_at": "2022-01-12T12:00:56.000Z",
+    "available_at": "2022-01-12T12:00:56.000Z",
+    "duration": 96,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "VAJMFsFBicQ",
+    "title": "【  Propnight  】 POV : Male Vtuber gets bullied by 4 gremlins 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Propnight",
+    "published_at": "2022-01-09T18:26:58.000Z",
+    "available_at": "2022-01-09T14:00:29.000Z",
+    "duration": 15119,
+    "status": "past",
+    "start_scheduled": "2022-01-09T14:00:00.000Z",
+    "start_actual": "2022-01-09T14:00:29.000Z",
+    "end_actual": "2022-01-09T18:12:20.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCgM1sly6rnxqWe8GLbceEag",
+        "org": "Independents",
+        "lang": null,
+        "name": "Naki Kamizuki / 上月なき【EverAfter】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/KZLrXmyptDH4YZA1HDMwPpV0djaPVP8-T_SbxULrwhDXqmCQFI9qLl3IFVlymS9XrT03QFMLAA=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "eaEverAfter",
+        "english_name": "Naki Kamizuki"
+      },
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "org": "Independents",
+        "lang": null,
+        "name": "おじきちゃん / Ojiki-Channel",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/l-CZRpj9KYYnWzaBp7aA8NRE-4OGyprg4S8qrQqGhoIzia94khQNyEOvrRvWGpPu9e3glQU4aac=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Ojiki-chan"
+      },
+      {
+        "id": "UCx_A6fns9qKjybu-6k0ur1g",
+        "org": "Independents",
+        "lang": null,
+        "name": "Non Anon / 亜音ノン 【Prima Project: EverAfter】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/o-nOndYXGAw41XaTyKl-bI8LFmicQ-WbHTvlExoPuKvwfbQT68wtcVpWv3xe2zM192-LfcvB8w=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "eaEverAfter",
+        "english_name": "Non Anon"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCgM1sly6rnxqWe8GLbceEag",
+        "name": "Naki Kamizuki / 上月なき【EverAfter】",
+        "duration_seconds": 15111
+      },
+      {
+        "id": "UC_HrzgYmapddmGSfn2UMHTA",
+        "name": "おじきちゃん / Ojiki-Channel",
+        "duration_seconds": 15111
+      },
+      {
+        "id": "UCx_A6fns9qKjybu-6k0ur1g",
+        "name": "Non Anon / 亜音ノン 【Prima Project: EverAfter】",
+        "duration_seconds": 15111
+      }
+    ]
+  },
+  {
+    "id": "Eb1DLt_KgqQ",
+    "title": "【  Escape Simulator  】 POV : Getting carried by @isseikaich  【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Escape_Simulator",
+    "published_at": "2022-01-08T17:24:11.000Z",
+    "available_at": "2022-01-08T14:01:01.000Z",
+    "duration": 11548,
+    "status": "past",
+    "start_scheduled": "2022-01-08T14:00:00.000Z",
+    "start_actual": "2022-01-08T14:01:01.000Z",
+    "end_actual": "2022-01-08T17:13:21.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCR4HhH-VSMQjySd0qoVh91g",
+        "org": "Independents",
+        "lang": null,
+        "name": "Issei Kai Ch. 一生カイ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/klWgkR79Wh1PklCJ4c-MlnQq5cLXYItgkIXU2Dv6ZSC3NSi924PN-egSKJbXpIN6MI9hqvBE=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Issei Kai"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCR4HhH-VSMQjySd0qoVh91g",
+        "name": "Issei Kai Ch. 一生カイ",
+        "duration_seconds": 11540
+      }
+    ]
+  },
+  {
+    "id": "bzpnwoTLEmw",
+    "title": "【  TEMTEM  】 better than p***mon :) 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2022-01-06T17:58:48.000Z",
+    "available_at": "2022-01-06T14:01:05.000Z",
+    "duration": 12501,
+    "status": "past",
+    "start_scheduled": "2022-01-06T14:00:00.000Z",
+    "start_actual": "2022-01-06T14:01:05.000Z",
+    "end_actual": "2022-01-06T17:29:26.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "2RlZiNqvFSo",
+    "title": "【  Minecraft  】I'M BACK, LET'S TALK AND BUILD A TOILET【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2022-01-04T17:34:39.000Z",
+    "available_at": "2022-01-04T14:00:54.000Z",
+    "duration": 10839,
+    "status": "past",
+    "start_scheduled": "2022-01-04T14:00:00.000Z",
+    "start_actual": "2022-01-04T14:00:54.000Z",
+    "end_actual": "2022-01-04T17:02:23.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Sm9t-Yzui4Y",
+    "title": "【  Who's your daddy  】SHOWING @AtheliaHiroyukiCh WHO'S THE PAPA【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Who's_Your_Daddy?",
+    "published_at": "2021-12-23T17:19:03.000Z",
+    "available_at": "2021-12-23T15:00:40.000Z",
+    "duration": 7851,
+    "status": "past",
+    "start_scheduled": "2021-12-23T15:00:00.000Z",
+    "start_actual": "2021-12-23T15:00:40.000Z",
+    "end_actual": "2021-12-23T17:11:28.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "l2mfGXYyX4Q",
+    "title": "【  Counseling with Rion  】Let's chill and help each other【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2021-12-21T18:10:00.000Z",
+    "available_at": "2021-12-21T14:00:58.000Z",
+    "duration": 14176,
+    "status": "past",
+    "start_scheduled": "2021-12-21T14:00:00.000Z",
+    "start_actual": "2021-12-21T14:00:58.000Z",
+    "end_actual": "2021-12-21T17:57:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Pi8A-ctxcGU",
+    "title": "【 Stream highlights 】 Being calm and collected as always #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-12-19T12:30:10.000Z",
+    "available_at": "2021-12-19T12:30:10.000Z",
+    "duration": 48,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "9vJHnVve_IQ",
+    "title": "【 Membership Opening Celebration - Marathon 】 IT'S HERE ! LET'S FIGHT 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "membership",
+    "published_at": "2021-12-18T17:29:15.000Z",
+    "available_at": "2021-12-18T14:00:23.000Z",
+    "duration": 11851,
+    "status": "past",
+    "start_scheduled": "2021-12-18T14:00:00.000Z",
+    "start_actual": "2021-12-18T14:00:23.000Z",
+    "end_actual": "2021-12-18T17:17:50.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Rcmr4iGyOVI",
+    "title": "【 Scuffed Speed Cover 】  The A-Team Acoustic ver.【 Virion Kisei | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2021-12-16T17:00:29.000Z",
+    "available_at": "2021-12-16T17:00:29.000Z",
+    "duration": 85,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dCaTHR3-hKU",
+    "title": "【 Virion Kisei 】 Trying JP voice acting but the urge is too strong... 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2021-12-14T17:09:22.000Z",
+    "available_at": "2021-12-14T17:09:22.000Z",
+    "duration": 18,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "KcmH6dAO2fY",
+    "title": "【 Flash games compilation 】 Getting back to child because adulthood is killing me 【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2021-12-11T19:28:05.000Z",
+    "available_at": "2021-12-11T15:00:48.000Z",
+    "duration": 13318,
+    "status": "past",
+    "start_scheduled": "2021-12-11T15:00:00.000Z",
+    "start_actual": "2021-12-11T15:00:48.000Z",
+    "end_actual": "2021-12-11T18:42:47.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "gbs2WAHvZ1s",
+    "title": "【 Spooyky Jump Scare Mansion 】 Crying for your own pleasure 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Spooky's_Jump_Scare_Mansion",
+    "published_at": "2021-12-09T17:51:33.000Z",
+    "available_at": "2021-12-09T14:30:53.000Z",
+    "duration": 11357,
+    "status": "past",
+    "start_scheduled": "2021-12-09T14:30:00.000Z",
+    "start_actual": "2021-12-09T14:30:53.000Z",
+    "end_actual": "2021-12-09T17:40:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "_VgSU8ym7l4",
+    "title": "【 Virion Kisei 】 Vtuber Lazy Song Parody - Acoustic ver. 【 Short Cover 】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2021-12-06T22:00:02.000Z",
+    "available_at": "2021-12-06T22:00:02.000Z",
+    "duration": 58,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "YOoGSSQg5qE",
+    "title": "【 MonstarZ Variety Show 】Love in the air~ (not for me tho)【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2021-12-05T17:49:37.000Z",
+    "available_at": "2021-12-05T15:19:56.000Z",
+    "duration": 7487,
+    "status": "past",
+    "start_scheduled": "2021-12-05T15:00:00.000Z",
+    "start_actual": "2021-12-05T15:19:56.000Z",
+    "end_actual": "2021-12-05T17:28:12.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "g_QiC3tthEg",
+    "title": "【 Eternal Return 】 Can't play league, so I'm playing the weeb version :( 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Eternal_Return",
+    "published_at": "2021-12-04T18:04:21.000Z",
+    "available_at": "2021-12-04T14:00:26.000Z",
+    "duration": 12369,
+    "status": "past",
+    "start_scheduled": "2021-12-04T14:00:00.000Z",
+    "start_actual": "2021-12-04T14:00:26.000Z",
+    "end_actual": "2021-12-04T17:26:36.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "jXqGwmyhHj0",
+    "title": "【 Virion Kisei 】 Toxic - Acoustic ver. - feat. @ShinoKitsuneCh 【 Short Cover 】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2021-12-02T14:50:20.000Z",
+    "available_at": "2021-12-02T14:50:20.000Z",
+    "duration": 81,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "xHdSHmVgOoY",
+    "title": "【 Waifu / Husbando Application Review 】Rejecting each and every single one of ya :)【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Review",
+    "published_at": "2021-12-01T18:59:02.000Z",
+    "available_at": "2021-12-01T14:00:29.000Z",
+    "duration": 12964,
+    "status": "past",
+    "start_scheduled": "2021-12-01T14:00:00.000Z",
+    "start_actual": "2021-12-01T14:00:29.000Z",
+    "end_actual": "2021-12-01T17:36:26.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "PbQ9jif7Uac",
+    "title": "【 Karaoke / Talk 】Just me screaming for 2 hours straight【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2021-11-28T18:27:42.000Z",
+    "available_at": "2021-11-28T14:31:00.000Z",
+    "duration": 13375,
+    "status": "past",
+    "start_scheduled": "2021-11-28T14:30:00.000Z",
+    "start_actual": "2021-11-28T14:31:00.000Z",
+    "end_actual": "2021-11-28T18:13:51.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3Eo-Dzfasps",
+    "title": "【 Pico Park | MonstarZ Collab 】Send panadols【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "PICO_PARK",
+    "published_at": "2021-11-27T17:58:09.000Z",
+    "available_at": "2021-11-27T15:23:07.000Z",
+    "duration": 8296,
+    "status": "past",
+    "start_scheduled": "2021-11-27T15:00:00.000Z",
+    "start_actual": "2021-11-27T15:23:07.000Z",
+    "end_actual": "2021-11-27T17:41:19.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "HaLGkz7xmj4",
+    "title": "【 Virion lazy VA 】WAH MUCH INCREDIBLE VOICE ACTING FROM THE FRENCH SLIME HIMSELF | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-26T13:45:18.000Z",
+    "available_at": "2021-11-26T13:45:18.000Z",
+    "duration": 5,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "cS56ReBxsfc",
+    "title": "【 Jump King 】Coming back strong【 Virion Kisei | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Jump_King",
+    "published_at": "2021-11-25T17:21:59.000Z",
+    "available_at": "2021-11-25T14:30:04.000Z",
+    "duration": 9799,
+    "status": "past",
+    "start_scheduled": "2021-11-25T14:30:00.000Z",
+    "start_actual": "2021-11-25T14:30:04.000Z",
+    "end_actual": "2021-11-25T17:13:16.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "LQZAAHuSOgQ",
+    "title": "【 Kataomoi 】 One-Shot - Slowly recovering my singing voice【 Virion Kisei | MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2021-11-23T15:00:11.000Z",
+    "available_at": "2021-11-23T15:00:11.000Z",
+    "duration": 60,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3IcdO2xc_AE",
+    "title": "【 Voice Acting 】 Trying to impress a dog by being an yandere ikemen with training - #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-22T18:06:53.000Z",
+    "available_at": "2021-11-22T18:06:53.000Z",
+    "duration": 36,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "9CTOf-chHZQ",
+    "title": "【 Idol Manager 】Tomboy only run :D【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Idol_Manager",
+    "published_at": "2021-11-21T17:53:07.000Z",
+    "available_at": "2021-11-21T14:30:32.000Z",
+    "duration": 10814,
+    "status": "past",
+    "start_scheduled": "2021-11-21T14:30:00.000Z",
+    "start_actual": "2021-11-21T14:30:32.000Z",
+    "end_actual": "2021-11-21T17:30:44.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "bSoCaqASGLE",
+    "title": "【 Talk / Voice Acting 】Trying to chill alone and train voice acting w/ Lunaris Urufi【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "talk",
+    "published_at": "2021-11-19T20:03:19.000Z",
+    "available_at": "2021-11-19T16:00:49.000Z",
+    "duration": 13833,
+    "status": "past",
+    "start_scheduled": "2021-11-19T16:00:00.000Z",
+    "start_actual": "2021-11-19T16:00:49.000Z",
+    "end_actual": "2021-11-19T19:51:21.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "Gk0XADeq2Iw",
+    "title": "【 Speed CLIPS 】Kouhai licks his senpai's feet for his first ever collab with her【 MyHolo TV 】",
+    "type": "stream",
+    "published_at": "2021-11-18T17:30:42.000Z",
+    "available_at": "2021-11-18T17:30:42.000Z",
+    "duration": 94,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "ynvDoecZs8g",
+    "title": "【  ONE MONTH CELEBRATION - Phasmophobia Collab  】I wanted to play amongus.. 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "among_us",
+    "published_at": "2021-11-16T19:25:50.000Z",
+    "available_at": "2021-11-16T16:16:44.000Z",
+    "duration": 10047,
+    "status": "past",
+    "start_scheduled": "2021-11-16T16:00:00.000Z",
+    "start_actual": "2021-11-16T16:16:44.000Z",
+    "end_actual": "2021-11-16T19:04:10.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "xUEZlBwIBD0",
+    "title": "How pro gamers should use their keyboards | #Shorts MyHolo TV Virion Kisei",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-15T15:00:27.000Z",
+    "available_at": "2021-11-15T15:00:27.000Z",
+    "duration": 20,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "HGX142Cltcw",
+    "title": "【  Ori and the Blind Forest + talking w/ Lili  】Depressed slime tries to play a game 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Ori",
+    "published_at": "2021-11-14T21:44:25.000Z",
+    "available_at": "2021-11-14T14:30:46.000Z",
+    "duration": 12624,
+    "status": "past",
+    "start_scheduled": "2021-11-14T14:30:00.000Z",
+    "start_actual": "2021-11-14T14:30:46.000Z",
+    "end_actual": "2021-11-14T18:01:12.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "O5ly5D-Az5I",
+    "title": "【 Baba is you 】Endurance stream, I'M BEATING THIS GAME 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "Baba_Is_You",
+    "published_at": "2021-11-12T19:26:14.000Z",
+    "available_at": "2021-11-12T14:05:34.000Z",
+    "duration": 17166,
+    "status": "past",
+    "start_scheduled": "2021-11-12T14:00:00.000Z",
+    "start_actual": "2021-11-12T14:05:34.000Z",
+    "end_actual": "2021-11-12T18:51:39.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "cpzt9vjVS78",
+    "title": "【 APEX 】Still not an apex streamer w/ @AtheliaHiroyukiCh 【 MyHolo TV 】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2021-11-11T18:31:14.000Z",
+    "available_at": "2021-11-11T16:00:54.000Z",
+    "duration": 7330,
+    "status": "past",
+    "start_scheduled": "2021-11-11T16:00:00.000Z",
+    "start_actual": "2021-11-11T16:00:54.000Z",
+    "end_actual": "2021-11-11T18:03:03.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "3he1gbX_36M",
+    "title": "\"best part\"  - Dream On【 Virion Kisei | MyHolo TV 】| #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-10T17:36:03.000Z",
+    "available_at": "2021-11-10T17:36:03.000Z",
+    "duration": 17,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "XVP3vqjgJEU",
+    "title": "Summarizing my layers of fear experience | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-08T15:00:14.000Z",
+    "available_at": "2021-11-08T15:00:14.000Z",
+    "duration": 40,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "b8-XFDDrDHM",
+    "title": "【Layers of fear #2】Ah yes... P A l N【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "Layers_of_Fear",
+    "published_at": "2021-11-07T21:16:02.000Z",
+    "available_at": "2021-11-07T19:00:58.000Z",
+    "duration": 7656,
+    "status": "past",
+    "start_scheduled": "2021-11-07T19:00:00.000Z",
+    "start_actual": "2021-11-07T19:00:58.000Z",
+    "end_actual": "2021-11-07T21:08:33.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "dbByvfeqAus",
+    "title": "Potato clown tries to sing seriously.. yet again.. | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-06T17:33:12.000Z",
+    "available_at": "2021-11-06T17:33:12.000Z",
+    "duration": 22,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "-JATPVjDyPk",
+    "title": "Improvising song with chat | For \"Dark Anime\" | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-11-05T19:17:05.000Z",
+    "available_at": "2021-11-05T19:17:05.000Z",
+    "duration": 60,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "WB2dvACZ9vQ",
+    "title": "【APEX ASMR】 I swear I'm not becoming an apex streamer...【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "apex",
+    "published_at": "2021-11-04T17:28:52.000Z",
+    "available_at": "2021-11-04T14:31:13.000Z",
+    "duration": 9220,
+    "status": "past",
+    "start_scheduled": "2021-11-04T14:30:00.000Z",
+    "start_actual": "2021-11-04T14:31:13.000Z",
+    "end_actual": "2021-11-04T17:04:55.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "1z6h8PT1Wn8",
+    "title": "【Talk/Singing/Guitar】Becoming a true non-gamer【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2021-11-02T04:33:34.000Z",
+    "available_at": "2021-11-01T14:31:19.000Z",
+    "duration": 7020,
+    "status": "past",
+    "start_scheduled": "2021-11-01T14:30:00.000Z",
+    "start_actual": "2021-11-01T14:31:19.000Z",
+    "end_actual": "2021-11-01T16:28:26.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "lHHxeQ7eXHg",
+    "title": "【Layers of fear】Let's fill bottles of fear-pee together on HALLOWEEEEN【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "Layers_of_Fear",
+    "published_at": "2021-11-01T04:56:47.000Z",
+    "available_at": "2021-10-31T15:02:10.000Z",
+    "duration": 6260,
+    "status": "past",
+    "start_scheduled": "2021-10-31T15:00:00.000Z",
+    "start_actual": "2021-10-31T15:02:10.000Z",
+    "end_actual": "2021-10-31T16:46:30.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "CWyCR3yArGw",
+    "title": "Thank you viewer for what you've done ;- ; - Improvised song 2 #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-10-30T14:25:52.000Z",
+    "available_at": "2021-10-30T14:25:52.000Z",
+    "duration": 58,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "wZ3SOXGuVuk",
+    "title": "【Minecraft】Losing Braincells w/ Luna and Lia【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "minecraft",
+    "published_at": "2021-10-29T17:28:08.000Z",
+    "available_at": "2021-10-29T15:00:35.000Z",
+    "duration": 7510,
+    "status": "past",
+    "start_scheduled": "2021-10-29T15:00:00.000Z",
+    "start_actual": "2021-10-29T15:00:35.000Z",
+    "end_actual": "2021-10-29T17:05:43.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "jU2izv6JAZw",
+    "title": "【Self-introduction】Vtuber Q&A self intro w/ Virion Kisei",
+    "type": "stream",
+    "topic_id": "Self-Introduction",
+    "published_at": "2021-10-28T14:02:28.000Z",
+    "available_at": "2021-10-28T14:02:28.000Z",
+    "duration": 92,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "enHr1tFb1yU",
+    "title": "Can't believe a viewer asked me to lick his.. [reward - improvised acoustic song #1] | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-10-27T17:17:12.000Z",
+    "available_at": "2021-10-27T17:17:12.000Z",
+    "duration": 56,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "_O-HeW7lUZ8",
+    "title": "【One hand Clapping】Singing and screaming to get out of this place【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "One_Hand_Clapping",
+    "published_at": "2021-10-26T17:39:03.000Z",
+    "available_at": "2021-10-26T15:00:09.000Z",
+    "duration": 7210,
+    "status": "past",
+    "start_scheduled": "2021-10-26T15:00:00.000Z",
+    "start_actual": "2021-10-26T15:00:09.000Z",
+    "end_actual": "2021-10-26T17:01:11.000Z",
+    "live_viewers": 0,
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "fmtTKoKwfPI",
+    "title": "Singing my love for my crush and love of my life. I love you. #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-10-25T14:43:38.000Z",
+    "available_at": "2021-10-25T14:43:38.000Z",
+    "duration": 22,
+    "status": "past",
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": []
+  },
+  {
+    "id": "f6tAr-t20mI",
+    "title": "【Duolingo Korea】Time to relearn Korean :(【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "Duolingo",
+    "published_at": "2021-10-25T06:51:34.000Z",
+    "available_at": "2021-10-24T14:01:08.000Z",
+    "duration": 9053,
+    "status": "past",
+    "start_scheduled": "2021-10-24T14:00:00.000Z",
+    "start_actual": "2021-10-24T14:01:08.000Z",
+    "end_actual": "2021-10-24T16:32:12.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 9064
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 9064
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 9064
+      }
+    ]
+  },
+  {
+    "id": "wZKijebiygU",
+    "title": "WOW FINALLY NOT A MEME CONTENT FROM THE POTATO CLOWN HIMSELF | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-10-22T17:46:50.000Z",
+    "available_at": "2021-10-22T17:46:50.000Z",
+    "duration": 29,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 29
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 29
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 29
+      }
+    ]
+  },
+  {
+    "id": "KQ6vjUkTjSU",
+    "title": "Losing a bet to chat and having to go bald :) | #Shorts",
+    "type": "stream",
+    "topic_id": "shorts",
+    "published_at": "2021-10-21T19:32:56.000Z",
+    "available_at": "2021-10-21T19:32:56.000Z",
+    "duration": 58,
+    "status": "past",
+    "mentions": [
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 58
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 58
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 58
+      }
+    ]
+  },
+  {
+    "id": "7d4cPW1PnbA",
+    "title": "【Slime Rancher】Making my family p00p to sell it for money :D【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "Slime_Rancher",
+    "published_at": "2021-10-21T08:03:04.000Z",
+    "available_at": "2021-10-20T18:00:48.000Z",
+    "duration": 6901,
+    "status": "past",
+    "start_scheduled": "2021-10-20T18:00:00.000Z",
+    "start_actual": "2021-10-20T18:00:48.000Z",
+    "end_actual": "2021-10-20T19:55:42.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 6894
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 6894
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 6894
+      }
+    ]
+  },
+  {
+    "id": "eCPOvTs00E4",
+    "title": "【Chilling / Guitar】You've been naughty with redeems, me angy è.é【MyHolo TV】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2021-10-19T07:32:04.000Z",
+    "available_at": "2021-10-18T18:15:27.000Z",
+    "duration": 4362,
+    "status": "past",
+    "start_scheduled": "2021-10-18T18:10:00.000Z",
+    "start_actual": "2021-10-18T18:15:27.000Z",
+    "end_actual": "2021-10-18T19:28:09.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 4362
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 4362
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 4362
+      }
+    ]
+  },
+  {
+    "id": "bISVl67Bpec",
+    "title": "Debut After Party - MonstarZ's New Blood @LunarisUrufi @AtheliaHiroyukiCh",
+    "type": "stream",
+    "published_at": "2021-10-16T17:09:44.000Z",
+    "available_at": "2021-10-16T16:01:00.000Z",
+    "duration": 3803,
+    "status": "past",
+    "start_scheduled": "2021-10-16T16:00:00.000Z",
+    "start_actual": "2021-10-16T16:01:00.000Z",
+    "end_actual": "2021-10-16T17:04:19.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 3799
+      },
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 3799
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 3799
+      }
+    ]
+  },
+  {
+    "id": "BQAGXEV2AgY",
+    "title": "【DEBUT STREAM】- Get parasited 💧 👁️👄👁️  [Virion Kisei | MyHolo TV] #MonstarZ",
+    "type": "stream",
+    "topic_id": "Debut_Stream",
+    "published_at": "2021-10-16T15:21:08.000Z",
+    "available_at": "2021-10-16T13:59:26.000Z",
+    "duration": 4561,
+    "status": "past",
+    "start_scheduled": "2021-10-16T14:00:00.000Z",
+    "start_actual": "2021-10-16T13:59:26.000Z",
+    "end_actual": "2021-10-16T15:15:33.000Z",
+    "live_viewers": 0,
+    "mentions": [
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/ikZ3diqZK-mQkQ6zezzzOlesDVZQ7q_pkJbMVlJVRJXD1zhBsB1gex6z3lj9E22DuXcQpdlS=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Lunaris Urufi"
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/c4rmvWU-2VNmjYyjAzUXUUECrO9fDWNMap-vJhdNQSUgQjRULXv2evA047BH0gM_bdNLGCpl=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "01Kensou!!",
+        "english_name": "Liliana Vampaia"
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "org": "MyHolo TV",
+        "lang": null,
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "type": "vtuber",
+        "photo": "https://yt3.ggpht.com/fYu6spLN_ONVWyA0H1wEcVt7unYdrkLhDlCk6vijMSQubbxudoO-8c30XCx7FmgXN6HLG08B=s800-c-k-c0x00ffffff-no-rj",
+        "suborg": "ZZ",
+        "english_name": "Athelia Hiroyuki"
+      }
+    ],
+    "channel": {
+      "id": "UCtfVp4B9rBl1zF3wKI-oK_A",
+      "name": "Virion Kisei Ch. 寄星 ビリオン【MyHolo TV】",
+      "org": "MyHolo TV",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YFQ3zA7N4whcnFG-jByIW3W2zPsFZq0tpaLxlyL26rligDzeidjDeIDm3q8oFgxGY0sedYbZA6c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Virion Kisei"
+    },
+    "collabs": [
+      {
+        "id": "UCf5X1k-R3Vk-2OYYKraJ7dQ",
+        "name": "Lunaris Urufi Ch. 人狼 ルナリス【VOGI】",
+        "duration_seconds": 4567
+      },
+      {
+        "id": "UCHz3PeU1RRcY9vJDSqsigIA",
+        "name": "Liliana Vampaia Ch. 吸血鬼 リリアナ",
+        "duration_seconds": 4567
+      },
+      {
+        "id": "UCptFEtQFy6u0_hReq9i8DCQ",
+        "name": "Athelia Hiroyuki Ch. 博之 アテリア",
+        "duration_seconds": 4567
+      }
+    ]
+  }
+]
