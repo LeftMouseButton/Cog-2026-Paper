@@ -18,7 +18,7 @@ def main():
     parser.add_argument('--input-csv', 
                         default='04_streams_collabs_symmetric/collab_pairs_symmetric.csv',
                         help='Path to symmetric collab pairs CSV')
-    parser.add_argument('--lambda-c', type=float, default=0.5,
+    parser.add_argument('--lambda-c', type=float, default=0.02,
                         help='Collaboration influence scaling parameter')
     parser.add_argument('--output-dir', default='output/',
                         help='Output directory')

@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-INPUT_DIR = Path("04_streams_collabs_symmetric")
+INPUT_DIR = Path("03_streams_filtered_hololive_20230101-20251231")
 EXCLUDED_FILE = Path("excluded_topics.txt")
 OUTPUT_FILE = Path("unique_topics.txt")
 

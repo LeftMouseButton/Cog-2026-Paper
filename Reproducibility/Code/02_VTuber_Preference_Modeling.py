@@ -35,9 +35,9 @@ def main():
                         help='Path to network pickle file')
     parser.add_argument('--matched-csv', default='matched.csv',
                         help='Path to matched.csv')
-    parser.add_argument('--streams-dir', default='04_streams_collabs_symmetric/',
+    parser.add_argument('--streams-dir', default='03_streams_filtered_hololive_20230101-20251231/',
                         help='Directory containing JSON stream files')
-    parser.add_argument('--lambda-d', type=float, default=0.1,
+    parser.add_argument('--lambda-d', type=float, default=0.05,
                         help='Temporal decay parameter')
     parser.add_argument('--output-dir', default='output/',
                         help='Output directory')
