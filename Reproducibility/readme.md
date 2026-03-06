@@ -38,7 +38,7 @@ tag_dataset_rawg.csv
 - "We obtained two videogame tagging/labeling datasets: IGDB and RAWG."
 
 matched.csv
-- "Using fuzzy matching with 85\% similarity, we found a total of 535 topics matching all three sources: the selected VTubers' unique stream topics, and IGDB and RAWG labeling datasets."
+- "Using fuzzy matching with 85\% similarity, we found a total of 523 topics matching all three sources: the selected VTubers' unique stream topics, and IGDB and RAWG labeling datasets."
 
 ## Code: 
 ### DataCollection and Preprocessing
