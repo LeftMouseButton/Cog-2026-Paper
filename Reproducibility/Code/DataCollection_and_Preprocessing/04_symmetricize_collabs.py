@@ -157,10 +157,8 @@ def symmetricize_collabs(collab_entries: list[dict], vtuber_streams: dict) -> di
         reverse_key = (collab_id, host_id)
         
         if reverse_key in matched_pairs:
-            entries_from_both = True
             other_entries = matched_pairs[reverse_key]
             
-            all_entries = entries + other_entries
             matched_entries = []
             
             for entry_a in entries:
@@ -173,7 +171,17 @@ def symmetricize_collabs(collab_entries: list[dict], vtuber_streams: dict) -> di
                         })
                         break
             
-            source = 'both'
+            if matched_entries:
+                source = 'both'
+            else:
+                source = 'single'
+                all_entries = entries + other_entries
+                matched_entries = []
+                for entry in all_entries:
+                    matched_entries.append({
+                        'timestamp': entry['start_actual'].isoformat() if entry['start_actual'] else None,
+                        'host': entry['host_channel_id'],
+                    })
         else:
             all_entries = entries
             source = 'single'
@@ -223,6 +231,8 @@ def save_output(symmetric_collabs: dict, output_dir: str):
     
     collab_pairs.sort(key=lambda x: (-x['collab_count'], x['vtuber_a_name'], x['vtuber_b_name']))
     
+    collab_pairs = [p for p in collab_pairs if p['collab_count'] > 0]
+    
     output_csv = os.path.join(output_dir, 'collab_pairs.csv')
     with open(output_csv, 'w', encoding='utf-8') as f:
         f.write('vtuber_a_id,vtuber_b_id,vtuber_a_name,vtuber_b_name,collab_count,source,timestamps\n')
@@ -244,6 +254,8 @@ def save_output(symmetric_collabs: dict, output_dir: str):
 
 def save_output_symmetric(collab_pairs: list[dict], output_dir: str):
     """Save symmetric collab data with mirrored pairs (A->B and B->A)."""
+    
+    collab_pairs = [p for p in collab_pairs if p['collab_count'] > 0]
     
     symmetric_pairs = []
     for pair in collab_pairs:
