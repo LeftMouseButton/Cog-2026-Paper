@@ -69,3 +69,24 @@ Saves as a .pkl under output/.
 - Compute VTuber tag affinity preferences from stream history and tag datasets.  
 Saves preferences_*.csv files under output/.  
 Input parameter --tag-source', choices=['rawg', 'igdb', 'overlap'], default='rawg'
+
+03_Independent_Cascade_Model.py
+- Runs the IC model
+
+04_Linear_Threshold_Model.py
+- Runs the LT model
+
+05_Results.py
+- Convenience wrapper for running both models, each with all 3 preference csv's, and printing a table  
+-> 05_Results.py --tags sandbox --k 1 --R 1000 --randseed 42   
++----------------------+--------------+------------+------------------------------------------+   
+| Model                | Preference   | Spread     | Seeds                                    |   
++----------------------+--------------+------------+------------------------------------------+   
+| Independent Cascade  | RAWG         | 2.69       | [Shirakami]                              |   
+| Independent Cascade  | IGDB         | 1.52       | [Shirakami]                              |  
+| Independent Cascade  | Overlap      | 15.89      | [Shirakami]                              |   
++----------------------+--------------+------------+------------------------------------------+   
+| Linear Threshold     | RAWG         | 15.19      | [Sakura]                                 |   
+| Linear Threshold     | IGDB         | 14.44      | [Sakura]                                 |   
+| Linear Threshold     | Overlap      | 17.89      | [Sakura]                                 |   
++----------------------+--------------+------------+------------------------------------------+   
