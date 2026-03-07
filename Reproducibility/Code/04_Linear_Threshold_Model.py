@@ -137,7 +137,12 @@ def main():
                         help='Number of Monte Carlo simulations')
     parser.add_argument('--alpha', type=float, default=0.5,
                         help='Preference influence strength on threshold')
+    parser.add_argument('--randseed', type=int, default=42,
+                        help='Random seed for reproducibility')
     args = parser.parse_args()
+    
+    random.seed(args.randseed)
+    np.random.seed(args.randseed)
     
     tag_set = [t.strip() for t in args.tags.split(',')]
     
@@ -146,7 +151,7 @@ def main():
     print(f"Network: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
     print(f"Preferences: {len(prefs)} tags, {len(prefs.columns)} VTubers")
     print(f"Tags: {tag_set}")
-    print(f"k={args.k}, R={args.R}, alpha={args.alpha}")
+    print(f"k={args.k}, R={args.R}, alpha={args.alpha}, randseed={args.randseed}")
     print()
     
     print("Computing incoming edge weights...")

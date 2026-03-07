@@ -48,16 +48,17 @@ def get_p_act(u, v, G, tag_set, prefs):
     game_pref = get_game_preference(v, tag_set, prefs)
     return p_uv * game_pref
 
-
+#Note: random seed was not sufficient for this function, due to Hash Randomization (a security feature in Python).
+#using a sorted list to maintain consistency
 def simulate_ic(G, seed_set, tag_set, prefs):
     """Run one IC diffusion simulation."""
     active = set(seed_set)
-    newly_active = set(seed_set)
+    newly_active = sorted(list(seed_set)) #sort to ensure same order, for reproducibility
     
     while newly_active:
         next_active = set()
-        for u in newly_active:
-            for v in G.successors(u):
+        for u in sorted(newly_active): #sort to ensure same order, for reproducibility
+            for v in sorted(G.successors(u)): #sort to ensure same order, for reproducibility
                 if v not in active:
                     p_act = get_p_act(u, v, G, tag_set, prefs)
                     if random.random() < p_act:
@@ -114,7 +115,12 @@ def main():
                         help='Number of seeds to select')
     parser.add_argument('--R', type=int, default=100,
                         help='Number of Monte Carlo simulations')
+    parser.add_argument('--randseed', type=int, default=42,
+                        help='Random seed for reproducibility')
     args = parser.parse_args()
+    
+    random.seed(args.randseed)
+    np.random.seed(args.randseed)
     
     tag_set = [t.strip() for t in args.tags.split(',')]
     
@@ -123,7 +129,7 @@ def main():
     print(f"Network: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
     print(f"Preferences: {len(prefs)} tags, {len(prefs.columns)} VTubers")
     print(f"Tags: {tag_set}")
-    print(f"k={args.k}, R={args.R}")
+    print(f"k={args.k}, R={args.R}, randseed={args.randseed}")
     print()
     
     print("Running greedy influence maximization...")
